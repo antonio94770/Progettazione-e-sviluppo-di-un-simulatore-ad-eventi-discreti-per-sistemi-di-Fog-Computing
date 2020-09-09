@@ -1,0 +1,28 @@
+file 164053 1532707396                                          
+version 2
+run Two_examples-0-20180727-18:01:49-18162
+attr configname Two_examples
+attr datetime 20180727-18:01:49
+attr experiment Two_examples
+attr inifile simulations/omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network MM1_network
+attr processid 18162
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param MM1_network.nApps 2
+param MM1_network.MM1_net[0].source.sendInterval exponential(0.1)
+param MM1_network.MM1_net[0].queue.serviceTime exponential(1)
+param MM1_network.MM1_net[1].source.sendInterval exponential(0.1)
+param MM1_network.MM1_net[1].queue.serviceTime exponential(10)
+
+vector 0 MM1_network.MM1_net[0].sink Delay ETV
+vector 1 MM1_network.MM1_net[1].sink Delay ETV
+0	762 146910 74 152920 1.939191662532 3599.28577150813 3520 1.859604212075 3239.7895171861 5720556.1176851 12391020171.256
+1	147672 16380 808 151806 19.605309397693 3573.095095444872 392 19.515453358845 3536.7248416556 709093.82478626 1660090826.8972
+

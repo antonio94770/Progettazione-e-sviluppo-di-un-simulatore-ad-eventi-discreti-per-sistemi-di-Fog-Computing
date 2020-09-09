@@ -1,0 +1,1455 @@
+Via Giuseppe Cesare ABBA	44.633105800	10.939677900	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio ABETTI	44.625261600	10.893088400	San Faustino-Madonnina-Quattroville
+Corso ACCADEMIA MILITARE	44.647792900	10.930326800	Centro Storico
+Piazza Delle ACCIAIERIE FERRIERE	44.650513700	10.938733550	Centro Storico
+Via Bernardo ACCOLTI	44.654346200	10.909585800	Centro Storico
+Via Giuseppe ACERBI	44.656694400	10.898991200	San Faustino-Madonnina-Quattroville
+Via Dell'ACERO	44.690933100	10.969303600	Crocetta-San Lazzaro-Modena Est
+Via Degli ADELARDI	44.645649000	10.921296000	Centro Storico
+Via ADRIA	44.633450300	10.924301100	Buon Pastore-Sant'Agnese-San Damaso
+Corso ADRIANO	44.644534300	10.929982900	Centro Storico
+Via Dell'AEROPORTO	44.628244900	10.808032300	San Faustino-Madonnina-Quattroville
+Stradello AGGAZZOTTI	44.602417500	10.919661700	Buon Pastore-Sant'Agnese-San Damaso
+Via Gaetana AGNESI	44.643425900	10.891692300	San Faustino-Madonnina-Quattroville
+Via Gregorio AGNINI	44.636995300	10.906716300	San Faustino-Madonnina-Quattroville
+Via Giorgio AGRICOLA	44.638754600	10.897222400	San Faustino-Madonnina-Quattroville
+Via AGRIGENTO	44.587890600	10.946703400	Buon Pastore-Sant'Agnese-San Damaso
+Via Ivaldo AGUZZOLI	44.620737300	10.980565000	Buon Pastore-Sant'Agnese-San Damaso
+Via Degli AIRONI	44.644635500	10.842004300	San Faustino-Madonnina-Quattroville
+Via Luigi ALAMANNI	44.675134700	10.900188900	San Faustino-Madonnina-Quattroville
+Via ALASSIO	44.623586200	10.936801300	Buon Pastore-Sant'Agnese-San Damaso
+Via ALBA	44.627010200	10.940863500	Buon Pastore-Sant'Agnese-San Damaso
+Strada ALBARETO	44.664151900	10.945926600	Crocetta-San Lazzaro-Modena Est
+Via ALBENGA	44.630468000	10.935947500	Buon Pastore-Sant'Agnese-San Damaso
+Vicolo ALBERGO	44.644636800	10.929352500	Centro Storico
+Via Leon Battista ALBERTI	44.632691300	10.918526400	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi ALBINELLI	44.644954100	10.925245600	Centro Storico
+Via Tomaso ALBINONI	44.632658400	10.967709700	Crocetta-San Lazzaro-Modena Est
+Via Fratelli ALBONI	44.689813300	10.913941100	San Faustino-Madonnina-Quattroville
+Via Ulisse ALDROVANDI	44.656824900	10.875965900	San Faustino-Madonnina-Quattroville
+Via Aleardo ALEARDI	44.661507700	10.889147300	San Faustino-Madonnina-Quattroville
+Via Sibilla ALERAMO	44.657739500	10.912518700	Centro Storico
+Via ALESSANDRIA	44.628634000	10.939588200	Buon Pastore-Sant'Agnese-San Damaso
+Piazza Emilio ALESSANDRINI	44.675539700	11.041978300	La Prospettiva
+Via Gianni ALFANI	44.661675700	10.923366900	Crocetta-San Lazzaro-Modena Est
+Via Vittorio ALFIERI	44.658280900	10.890519500	San Faustino-Madonnina-Quattroville
+Via ALGHERO	44.619638300	10.941135300	Buon Pastore-Sant'Agnese-San Damaso
+Piazza Dante ALIGHIERI	44.653960750	10.930737166	Centro Storico
+Via Luigi ALIPRANDI	44.651896400	10.917379600	Centro Storico
+Via Mario ALLEGRETTI	44.635733700	10.947216200	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio ALLEGRI	44.635990800	10.910969700	San Faustino-Madonnina-Quattroville
+Via Salvador ALLENDE	44.657160600	10.965924000	Crocetta-San Lazzaro-Modena Est
+Via Dell'ALLORO	44.646774000	10.921879600	Centro Storico
+Via Degli ALPINI	44.600703800	10.973442300	Buon Pastore-Sant'Agnese-San Damaso
+Piazza ALTA	44.657643450	10.949641000	Crocetta-San Lazzaro-Modena Est
+Via Saverio ALTAMURA	44.628445900	10.914558700	Buon Pastore-Sant'Agnese-San Damaso
+Via Pietro ALVARADO	44.656930300	10.898281700	San Faustino-Madonnina-Quattroville
+Stradello ALZAIA	44.678401700	10.930480500	Crocetta-San Lazzaro-Modena Est
+Via Michele AMARI	44.651569300	10.867872000	San Faustino-Madonnina-Quattroville
+Via Francesco AMBROSOLI	44.662918400	10.925205900	Crocetta-San Lazzaro-Modena Est
+Parco Giovanni AMENDOLA	44.630666300	10.909428805	Buon Pastore-Sant'Agnese-San Damaso
+Via Giovan Battista AMICI	44.641209100	10.921765700	Centro Storico
+Via Roald AMUNDSEN	44.656307800	10.896589400	San Faustino-Madonnina-Quattroville
+Via ANCONA	44.629225900	10.927506800	Buon Pastore-Sant'Agnese-San Damaso
+Via Arturo ANDERLINI	44.661147500	10.927231500	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe ANDREOLI	44.643386500	10.932399900	Centro Storico
+Stradello Nord ANESINO	44.666593900	10.892743700	San Faustino-Madonnina-Quattroville
+Stradello Sud ANESINO	44.662543400	10.890877100	San Faustino-Madonnina-Quattroville
+Via Pasquale ANFOSSI	44.643594200	10.944769500	Crocetta-San Lazzaro-Modena Est
+Via Beato ANGELICO	44.626778700	10.907863000	Buon Pastore-Sant'Agnese-San Damaso
+Via Cecco ANGIOLIERI	44.659224400	10.892005700	San Faustino-Madonnina-Quattroville
+Via Nereo ANNOVI	44.625435300	10.896339300	San Faustino-Madonnina-Quattroville
+Via ANTICA QUERCIA	44.575188700	10.919480800	Buon Pastore-Sant'Agnese-San Damaso
+Via Alessandro ANTONELLI	44.635463200	10.907084000	San Faustino-Madonnina-Quattroville
+Via ANZIO	44.624626000	10.940999900	Buon Pastore-Sant'Agnese-San Damaso
+Via AOSTA	44.624821600	10.945835900	Buon Pastore-Sant'Agnese-San Damaso
+Via APRICA	44.638495700	10.856698800	San Faustino-Madonnina-Quattroville
+Via AQUILEIA	44.634172200	10.924156000	Buon Pastore-Sant'Agnese-San Damaso
+Via Francesco ARAGO	44.645898800	10.907711500	San Faustino-Madonnina-Quattroville
+Via Antonio ARALDI	44.632495200	10.947817800	Buon Pastore-Sant'Agnese-San Damaso
+Via Dell'ARATRO	44.641397200	10.805898000	San Faustino-Madonnina-Quattroville
+Via ARCHIMEDE	44.646597800	10.901137700	San Faustino-Madonnina-Quattroville
+Via ARCHIROLA	44.637731600	10.929868400	Buon Pastore-Sant'Agnese-San Damaso
+Via ARENZANO	44.632474100	10.934181900	Buon Pastore-Sant'Agnese-San Damaso
+Via AREZZO	44.623001200	10.924100100	Buon Pastore-Sant'Agnese-San Damaso
+Via ARGENTINA	44.662103100	10.964164500	Crocetta-San Lazzaro-Modena Est
+Via Alessandro ARGIOLAS	44.610404500	10.920062700	Buon Pastore-Sant'Agnese-San Damaso
+Via Dell'ARIETE	44.628928900	10.888965900	San Faustino-Madonnina-Quattroville
+Via Ludovico ARIOSTO	44.662964000	10.923037000	Crocetta-San Lazzaro-Modena Est
+Via ARISTOTELE	44.641893000	10.886718600	San Faustino-Madonnina-Quattroville
+Via Curcio ARLETTI	44.642992200	10.964084000	Crocetta-San Lazzaro-Modena Est
+Via Carlo ARMELLINI	44.632605600	10.952201000	Buon Pastore-Sant'Agnese-San Damaso
+Stradello ARMENONE	44.609557600	10.909952100	Buon Pastore-Sant'Agnese-San Damaso
+Via  ARQUA	44.626868700	10.925722900	Buon Pastore-Sant'Agnese-San Damaso
+Via Dell'ARTIGIANATO	44.556678800	10.854574900	Casa Vandelli
+Via Alberto ARTIOLI	44.636846700	10.905361600	San Faustino-Madonnina-Quattroville
+Via Pellegrino ASCANI	44.651566900	10.903424300	San Faustino-Madonnina-Quattroville
+Via ASIAGO	44.630433100	10.920745400	Buon Pastore-Sant'Agnese-San Damaso
+Via ASTI	44.625980500	10.944816400	Buon Pastore-Sant'Agnese-San Damaso
+Strada ATTIRAGLIO	44.655259100	10.936469000	Crocetta-San Lazzaro-Modena Est
+Parco Dell'ATTIRAGLIO	44.656471050	10.939548052	Crocetta-San Lazzaro-Modena Est
+Via AUSTRIA	44.668200900	10.936144000	Crocetta-San Lazzaro-Modena Est
+Viale Dell'AUTODROMO	44.650068700	10.903797600	San Faustino-Madonnina-Quattroville
+Via Bartolomeo Luigi AVANZINI	44.633657700	10.900075700	San Faustino-Madonnina-Quattroville
+Via Amedeo AVOGADRO	44.641038200	10.891074700	San Faustino-Madonnina-Quattroville
+Via Guido BACCELLI	44.636862100	10.901747000	San Faustino-Madonnina-Quattroville
+Strada BACCELLIERA	44.601833800	10.957643100	Buon Pastore-Sant'Agnese-San Damaso
+Via Benedetto BACCHINI	44.650562400	10.919580500	Centro Storico
+Via Lotario BACCIOLANI	44.637159500	10.934741800	Buon Pastore-Sant'Agnese-San Damaso
+Via Johann Sebastian BACH	44.633067600	10.970196200	Crocetta-San Lazzaro-Modena Est
+Via Vittorio BACHELET	44.619715600	10.928593100	Buon Pastore-Sant'Agnese-San Damaso
+Via Francesco BACONE	44.641515300	10.891952600	San Faustino-Madonnina-Quattroville
+Via Robert Smith BADEN POWELL	44.632772400	10.899272300	San Faustino-Madonnina-Quattroville
+Via Tommaso BADIA	44.647079700	10.923875700	Centro Storico
+Stradello BAGGIOVARA	44.609523100	10.850356100	San Faustino-Madonnina-Quattroville
+Stradello BAGNESI	44.696642300	10.891395200	San Faustino-Madonnina-Quattroville
+Via Cesare BALBO	44.661191400	10.920767700	Crocetta-San Lazzaro-Modena Est
+Via Ruggero BALLI	44.645147900	10.888135700	San Faustino-Madonnina-Quattroville
+Via Dei BALUGOLA	44.644035700	10.923520800	Centro Storico
+Via Adriano BANCHIERI	44.631655200	10.971579600	Crocetta-San Lazzaro-Modena Est
+Via Carlo BARABINO	44.626914300	10.907268100	Buon Pastore-Sant'Agnese-San Damaso
+Via Augusto BARACCHI	44.636345300	10.904912900	San Faustino-Madonnina-Quattroville
+Via Giuseppe BARALDI	44.635265900	10.928745900	Buon Pastore-Sant'Agnese-San Damaso
+Via Domenico BARBANTI	44.639520500	10.911066400	San Faustino-Madonnina-Quattroville
+Via Silvestro BARBERINI	44.630799800	10.902486100	San Faustino-Madonnina-Quattroville
+Via Gian Maria BARBIERI	44.640800700	10.923262200	Centro Storico
+Via Giuseppe BARBOLINI	44.688567800	10.916531800	San Faustino-Madonnina-Quattroville
+Stradello BARCA	44.580411000	10.983637400	Buon Pastore-Sant'Agnese-San Damaso
+Strada BARCHETTA	44.662363900	10.881720600	San Faustino-Madonnina-Quattroville
+Via Giuseppe BARETTI	44.660418800	10.896386600	San Faustino-Madonnina-Quattroville
+Viale Jacopo BAROZZI	44.643676200	10.916688500	Centro Storico
+Via Anton Giulio BARRILI	44.657931500	10.878712500	San Faustino-Madonnina-Quattroville
+Via Eugenio BARSANTI	44.645112900	10.907136100	San Faustino-Madonnina-Quattroville
+Via Giorgio BARTOLI	44.683176100	10.896164300	San Faustino-Madonnina-Quattroville
+Via Giorgio BARTOLOMASI	44.630498300	10.947768500	Buon Pastore-Sant'Agnese-San Damaso
+Via Confucio BASAGLIA	44.649043600	10.900629700	San Faustino-Madonnina-Quattroville
+Via Giovanni Battista BASILE	44.666557400	10.913467400	Crocetta-San Lazzaro-Modena Est
+Via BASSANO DEL GRAPPA	44.627757300	10.918062600	Buon Pastore-Sant'Agnese-San Damaso
+Stradello BASSO	44.699421000	10.885403500	San Faustino-Madonnina-Quattroville
+Stradello BASTOGI	44.602478300	10.860013500	San Faustino-Madonnina-Quattroville
+Strada BATTAGLIA	44.685448900	10.966954000	Crocetta-San Lazzaro-Modena Est
+Via Antonio BAZZINI	44.639332300	10.962251300	Crocetta-San Lazzaro-Modena Est
+Via Bartolomeo Jacopo BECCARI	44.641241700	10.890509700	San Faustino-Madonnina-Quattroville
+Via Cesare BECCARIA	44.659737100	10.895949400	San Faustino-Madonnina-Quattroville
+Via Ludwig Van BEETHOVEN	44.633829000	10.969332700	Crocetta-San Lazzaro-Modena Est
+Via Antonio BEGARELLI	44.648686500	10.937568700	Centro Storico
+Via Fratelli BEGHI	44.604481400	10.861827400	San Faustino-Madonnina-Quattroville
+Via BELGIO	44.675597600	10.934919400	Crocetta-San Lazzaro-Modena Est
+Strada BELLARIA	44.611999800	10.936351400	Buon Pastore-Sant'Agnese-San Damaso
+Via BELLE ARTI	44.649247300	10.926935900	Centro Storico
+Via Gaetano BELLEI	44.640578100	10.914095200	San Faustino-Madonnina-Quattroville
+Via Giuseppe BELLENTANI	44.628713000	10.922815400	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe Gioacchino BELLI	44.657407100	10.904792700	San Faustino-Madonnina-Quattroville
+Via Bartolomeo BELLINCINI	44.636245300	10.926056600	Buon Pastore-Sant'Agnese-San Damaso
+Via Vincenzo BELLINI	44.645610500	10.938733500	Centro Storico
+Via BELLINZONA	44.636749400	10.932037200	Buon Pastore-Sant'Agnese-San Damaso
+Via Felice BELLOTTI	44.651711700	10.875960200	San Faustino-Madonnina-Quattroville
+Via BELLUNO	44.634459000	10.925545400	Buon Pastore-Sant'Agnese-San Damaso
+Via Giacomo Costantino BELTRAMI	44.634426200	10.871266400	San Faustino-Madonnina-Quattroville
+Via Pietro BEMBO	44.662601800	10.898617100	San Faustino-Madonnina-Quattroville
+Via Giuliano BENASSI	44.789956600	10.875244700	Cibeno Pile
+Via Sem BENELLI	44.658792800	10.904979900	San Faustino-Madonnina-Quattroville
+Via Giuseppe BENEVENTI	44.649759100	10.900386900	San Faustino-Madonnina-Quattroville
+Via Paolo BENTIVOGLIO	44.642029500	10.962812200	Crocetta-San Lazzaro-Modena Est
+Via Romolo BENZI	44.632273500	10.868276200	San Faustino-Madonnina-Quattroville
+Via Jacopo BERENGARIO	44.649496600	10.921449300	Centro Storico
+Via BERGAMO	44.625303100	10.929268700	Buon Pastore-Sant'Agnese-San Damaso
+Via Vito BERING	44.656378500	10.890523800	San Faustino-Madonnina-Quattroville
+Stradello BERNARDA	44.608459200	10.978220100	Buon Pastore-Sant'Agnese-San Damaso
+Via Gian Lorenzo BERNINI	44.631814900	10.915920100	Buon Pastore-Sant'Agnese-San Damaso
+Via Fratelli BERSANI	44.692702300	10.967839800	Crocetta-San Lazzaro-Modena Est
+Via Gaetano BERTELLI	44.658118200	10.932318500	Crocetta-San Lazzaro-Modena Est
+Stradello BERTOLA	44.679633800	10.946879200	Crocetta-San Lazzaro-Modena Est
+Via BERTOLDA	44.644887700	10.922598600	Centro Storico
+Via Sperindio BERTOLDI	44.645348100	10.917546900	Centro Storico
+Via Elpidio BERTOLI	44.633436400	10.903916500	Buon Pastore-Sant'Agnese-San Damaso
+Via Giulio BERTONI	44.662176300	10.929088600	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe BIAGI	44.655712600	10.898435500	San Faustino-Madonnina-Quattroville
+Largo Marco BIAGI	44.649814500	10.918457200	Centro Storico
+Via Francesco BIANCHI FERRARI	44.639744100	10.909265300	San Faustino-Madonnina-Quattroville
+Via Del BIANCOSPINO	44.587664000	10.970516700	Buon Pastore-Sant'Agnese-San Damaso
+Via BIELLA	44.625469500	10.942371200	Buon Pastore-Sant'Agnese-San Damaso
+Via BIRMANIA	44.672677700	10.951920400	Crocetta-San Lazzaro-Modena Est
+Via Ciro BISI	44.633974300	10.935704500	Buon Pastore-Sant'Agnese-San Damaso
+Via Nino BIXIO	44.633282900	10.950627600	Buon Pastore-Sant'Agnese-San Damaso
+Via Georges BIZET	44.642254900	10.945016400	Crocetta-San Lazzaro-Modena Est
+Via BLASIA	44.647343000	10.927732500	Centro Storico
+Via Gian Battista BOCCABADATI	44.629115100	10.941369700	Buon Pastore-Sant'Agnese-San Damaso
+Via Giovanni BOCCACCIO	44.664903500	10.923994900	Crocetta-San Lazzaro-Modena Est
+Via Luigi BOCCHERINI	44.643751100	10.942124600	Crocetta-San Lazzaro-Modena Est
+Via Gian Battista BODONI	44.659868100	10.931842388	Crocetta-San Lazzaro-Modena Est
+Via Matteo Maria BOIARDO	44.659138100	10.903824200	San Faustino-Madonnina-Quattroville
+Via Arrigo BOITO	44.641752800	10.944415300	Crocetta-San Lazzaro-Modena Est
+Via BOLIVIA	44.660305900	10.965302300	Crocetta-San Lazzaro-Modena Est
+Via BOLOGNA	44.541369500	10.771634800	Villa Vaccari
+Via Armando BOLOGNESE	44.688546500	10.914986200	San Faustino-Madonnina-Quattroville
+Via BOLZANO	44.629050700	10.925539300	Buon Pastore-Sant'Agnese-San Damaso
+Via Mario BONACINI	44.640766100	10.939635600	Crocetta-San Lazzaro-Modena Est
+Via BONACORSA	44.646018500	10.923316000	Centro Storico
+Stradello BONAGHINO	44.612507200	10.983511100	Buon Pastore-Sant'Agnese-San Damaso
+Via Adeodato BONASI	44.652496400	10.931752100	Centro Storico
+Via Bartolomeo BONASIA	44.645163100	10.909004000	San Faustino-Madonnina-Quattroville
+Calle BONDESANO	44.651933800	10.928912400	Centro Storico
+Via Giuseppe Maria BONDIGLI	44.638153000	10.913148700	San Faustino-Madonnina-Quattroville
+Via Carlo BONI	44.640358300	10.907455700	San Faustino-Madonnina-Quattroville
+Via BONO DA NONANTOLA	44.649848700	10.920763200	Centro Storico
+Via De' BONOMINI	44.652880000	10.934644900	Centro Storico
+Via Dei BONONCINI	44.637493900	10.935028500	Buon Pastore-Sant'Agnese-San Damaso
+Parco BONVI PARKEN	44.635169950	10.914835793	Buon Pastore-Sant'Agnese-San Damaso
+Via Aroldo BONZAGNI	44.634088800	10.916550900	Buon Pastore-Sant'Agnese-San Damaso
+Via BORDIGHERA	44.632541600	10.935307000	Buon Pastore-Sant'Agnese-San Damaso
+Strada BORELLE	44.633457000	10.856224200	San Faustino-Madonnina-Quattroville
+Via Vincenzo BORELLI	44.644637000	10.934088500	Centro Storico
+Via Gina BORELLINI	44.659200000	10.933352500	Crocetta-San Lazzaro-Modena Est
+Via Carlo BORGHI	44.656419200	10.909598000	Centro Storico
+Via BORNEO	44.687662400	10.963423400	Crocetta-San Lazzaro-Modena Est
+Via Livio BORRI	44.639710200	10.948130800	Crocetta-San Lazzaro-Modena Est
+Via Francesco BORROMINI	44.628418600	10.912597300	Buon Pastore-Sant'Agnese-San Damaso
+Via Paolo BORSELLINO	44.623780000	10.917711700	Buon Pastore-Sant'Agnese-San Damaso
+Via Pietro BORTOLOTTI	44.629260200	10.942703200	Buon Pastore-Sant'Agnese-San Damaso
+Piazzale Paolo BOSCHETTI	44.645878500	10.930202400	Centro Storico
+Stradello BOSCHI	44.622270300	10.816410200	San Faustino-Madonnina-Quattroville
+Via Vittorio BOTTEGO	44.638511100	10.873769200	San Faustino-Madonnina-Quattroville
+Via Giuseppe BOTTI	44.625555900	10.894379200	San Faustino-Madonnina-Quattroville
+Via Sandro BOTTICELLI	44.627113800	10.906436000	Buon Pastore-Sant'Agnese-San Damaso
+Via Giacomo BOVE	44.641763000	10.939536000	Crocetta-San Lazzaro-Modena Est
+Stradello BOZZALINI	44.695435100	10.875618500	San Faustino-Madonnina-Quattroville
+Via Alfredo BRAGHIROLI	44.633369800	10.946569600	Buon Pastore-Sant'Agnese-San Damaso
+Via Alberto BRAGLIA	44.332353800	10.826613100	La Sbrugna
+Via BRAMANTE	44.594989000	11.037887400	Fiume
+Via BRASILE	44.660408900	10.962255800	Crocetta-San Lazzaro-Modena Est
+Via Alberto BRASILI	44.659512200	10.920087000	Crocetta-San Lazzaro-Modena Est
+Via Ernesto BREDA	44.660122800	10.911160900	San Faustino-Madonnina-Quattroville
+Via BRESCIA	44.626145800	10.930304800	Buon Pastore-Sant'Agnese-San Damaso
+Via Girolamo BRIANI	44.636780100	10.930376700	Buon Pastore-Sant'Agnese-San Damaso
+Via Vincenzo BRIGATTI	44.668198100	10.938463900	Crocetta-San Lazzaro-Modena Est
+Via Luigi Vicino BRUGNATELLI	44.645870700	10.915881300	San Faustino-Madonnina-Quattroville
+Via Giacomo BRUINI	44.650372200	10.898436400	San Faustino-Madonnina-Quattroville
+Via Filippo BRUNELLESCHI	44.632442400	10.915097800	Buon Pastore-Sant'Agnese-San Damaso
+Piazza Natale BRUNI	44.651835100	10.933511800	Centro Storico
+Via Ermanno BRUSCHI	44.634077200	10.950419000	Buon Pastore-Sant'Agnese-San Damaso
+Via Giorgio BUFFON	44.622888100	10.891129800	San Faustino-Madonnina-Quattroville
+Via BULGARIA	44.672004800	10.939486800	Crocetta-San Lazzaro-Modena Est
+Viale BUON PASTORE	44.636235700	10.921260600	Centro Storico
+Via Michelangelo BUONARROTI	44.640289300	10.910528100	San Faustino-Madonnina-Quattroville
+Via Bruno BUOZZI	44.660848500	10.942251600	Crocetta-San Lazzaro-Modena Est
+Via Teresina BURCHI	44.641216300	10.943817800	Crocetta-San Lazzaro-Modena Est
+Via Franco BUSANI	44.641960200	10.966249000	Crocetta-San Lazzaro-Modena Est
+Via Armando BUSSI	44.630154900	10.960968700	Buon Pastore-Sant'Agnese-San Damaso
+Stradello  CA SEGHIZZI	44.678212300	10.952872500	Crocetta-San Lazzaro-Modena Est
+Via Sandro CABASSI	44.655039800	10.905813500	Centro Storico
+Via Sebastiano CABOTO	44.655574200	10.900547100	San Faustino-Madonnina-Quattroville
+Strada CADIANE	44.603872700	10.904920300	Buon Pastore-Sant'Agnese-San Damaso
+Parco Dei CADUTI DELLA FANFARA OLANDESE	44.654196600	10.890696500	San Faustino-Madonnina-Quattroville
+Viale CADUTI IN GUERRA	44.650509500	10.933600600	Centro Storico
+Via CADUTI SENZA CROCE	44.608844800	10.865445700	San Faustino-Madonnina-Quattroville
+Viale CADUTI SUL LAVORO	44.628373800	10.969551000	Buon Pastore-Sant'Agnese-San Damaso
+Via CAGLIARI	44.621601400	10.942390900	Buon Pastore-Sant'Agnese-San Damaso
+Via Alessandro CAGLIOSTRO	44.635521200	10.902886800	San Faustino-Madonnina-Quattroville
+Via Umberto CAGNI	44.635163700	10.869586900	San Faustino-Madonnina-Quattroville
+Via Iacopino CAGNOLI	44.647051400	10.916170900	San Faustino-Madonnina-Quattroville
+Via CAMAIORE	44.619566100	10.934005700	Buon Pastore-Sant'Agnese-San Damaso
+Via CAMATTA	44.310037800	10.792578100	Ca' Natale
+Via Ferruccio CAMBI	44.709583500	10.902219700	San Faustino-Madonnina-Quattroville
+Via Delle CAMELIE	44.602274100	10.969723700	Buon Pastore-Sant'Agnese-San Damaso
+Via CAMOGLI	44.632986900	10.933990300	Buon Pastore-Sant'Agnese-San Damaso
+Via Giorgio CAMPAGNA	44.637710100	10.876271300	San Faustino-Madonnina-Quattroville
+Via Dino CAMPANA	44.655427800	10.872447700	San Faustino-Madonnina-Quattroville
+Via CAMPANELLA	44.646202700	10.928249300	Centro Storico
+Via Silvio CAMPANI	44.659276300	10.892641800	San Faustino-Madonnina-Quattroville
+Via CAMPESTRE	44.612217400	10.909517200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe CAMPI	44.635332900	10.946669900	Buon Pastore-Sant'Agnese-San Damaso
+Calle Dei CAMPIONESI	44.646341200	10.925072900	Centro Storico
+Via CAMPOBASSO	44.623009300	10.948568600	Buon Pastore-Sant'Agnese-San Damaso
+Strada CAMPOGALLIANO	44.682239200	10.874729200	San Faustino-Madonnina-Quattroville
+Via Giuseppe CAMPORI	44.647191300	10.919890200	Centro Storico
+Stradello CAMURRI	44.675135000	10.959428700	Crocetta-San Lazzaro-Modena Est
+Strada CANALAZZO	44.633814100	10.813988584	San Faustino-Madonnina-Quattroville
+Corso CANALCHIARO	44.645191100	10.923256000	Centro Storico
+Corso CANALGRANDE	44.645160800	10.928992200	Centro Storico
+Via CANALINO	44.843135200	11.146037700	Fondo Ca' Bianca
+Vicolo Del CANE	44.643933900	10.929791900	Centro Storico
+Via Giovanni CANEVAZZI	44.661620500	10.892461300	San Faustino-Madonnina-Quattroville
+Via Stanislao CANNIZZARO	44.639786200	10.891889800	San Faustino-Madonnina-Quattroville
+Via Antonio CANOVA	44.637153800	10.907598400	San Faustino-Madonnina-Quattroville
+Via Jacopo CANTELLI	44.643030500	10.934915300	Crocetta-San Lazzaro-Modena Est
+Via  Cesare CANTU	44.661658300	10.888580300	San Faustino-Madonnina-Quattroville
+Via Geminiano CAPILUPI	44.634604100	10.954886700	Crocetta-San Lazzaro-Modena Est
+Stradello Mauro CAPITANI	44.667126550	10.901735642	San Faustino-Madonnina-Quattroville
+Via Nino CAPPELLI	44.636547000	10.933713800	Buon Pastore-Sant'Agnese-San Damaso
+Via Del CAPRICORNO	44.628160100	10.892854500	San Faustino-Madonnina-Quattroville
+Via Luigi CAPUANA	44.657912600	10.903107100	San Faustino-Madonnina-Quattroville
+Via Bartolomeo CARANDINI	44.643780200	10.926719900	Centro Storico
+Via Ennio CARANDO	44.632229600	10.947446700	Buon Pastore-Sant'Agnese-San Damaso
+Via Del CARAVAGGIO	44.637344900	10.917496600	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi CARBONIERI	44.637662100	10.940098900	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio CARDARELLI	44.639563900	10.907710700	San Faustino-Madonnina-Quattroville
+Via CARMELITANE SCALZE	44.645997100	10.930309900	Centro Storico
+Via Del CARMINE	44.645667700	10.930327700	Centro Storico
+Via Domenico CARNEVALE	44.646381500	10.918656400	Centro Storico
+Via Annibale CARO	44.661960500	10.889476400	San Faustino-Madonnina-Quattroville
+Via Vittore CARPACCIO	44.629817400	10.911359300	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei CARPENTIERI	44.634837500	10.974547800	Crocetta-San Lazzaro-Modena Est
+Via CARRARA	44.621347000	10.931603100	Buon Pastore-Sant'Agnese-San Damaso
+Via Rosalba CARRIERA	44.595873100	10.974174000	Buon Pastore-Sant'Agnese-San Damaso
+Via Del CARSO	44.654281700	10.920075400	Centro Storico
+Via CARTERIA	44.645863900	10.922327500	Centro Storico
+Via CARTESIO	44.643803100	10.890939600	San Faustino-Madonnina-Quattroville
+Via Enrico CARUSO	44.666870200	10.976635700	Crocetta-San Lazzaro-Modena Est
+Via CASALE	44.626550600	10.943452000	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo CASALEGNO	44.620880400	10.925352200	Buon Pastore-Sant'Agnese-San Damaso
+Via Vincenzo CASCARIOLO	44.634953700	10.894249800	San Faustino-Madonnina-Quattroville
+Via Alfredo CASELLA	44.641216300	10.943817800	Crocetta-San Lazzaro-Modena Est
+Vicolo CASELLINE	44.647839100	10.924371600	Centro Storico
+Strada CASETTE	44.645533500	10.972414200	Crocetta-San Lazzaro-Modena Est
+Via Tommaso CASINI	44.661757100	10.893162300	San Faustino-Madonnina-Quattroville
+Via Alfonso CASOLI	44.656795000	10.914978100	Centro Storico
+Stradello CASSANA	44.671480900	10.894919700	San Faustino-Madonnina-Quattroville
+Via Giuliano CASSIANI	44.662918400	10.925205900	Crocetta-San Lazzaro-Modena Est
+Via Panfilo CASTALDI	44.646286000	10.850891700	San Faustino-Madonnina-Quattroville
+Stradello CASTELFRANCO	44.640308700	10.861934600	San Faustino-Madonnina-Quattroville
+Via Giuseppe CASTELLI	44.642489800	10.932996600	Centro Storico
+Via CASTELMARALDO	44.649185800	10.923885700	Centro Storico
+Strada CASTELNUOVO RANGONE	44.590729800	10.931421100	Buon Pastore-Sant'Agnese-San Damaso
+Via Ludovico CASTELVETRO	44.639989300	10.926191000	Centro Storico
+Via Enrichetta CASTIGLIONI	44.644858100	10.933528100	Centro Storico
+Via Angelo CATELANI	44.643317800	10.940758200	Crocetta-San Lazzaro-Modena Est
+Via Carlo CATTANEO	44.641755800	10.899191000	San Faustino-Madonnina-Quattroville
+Viale CATULLO	44.651169400	10.854952500	San Faustino-Madonnina-Quattroville
+Via Sigismondo CAULA	44.643418400	10.914608300	San Faustino-Madonnina-Quattroville
+Via Guido CAVALCANTI	44.658186000	10.902136400	San Faustino-Madonnina-Quattroville
+Via Bonaventura CAVALIERI	44.642100700	10.913960900	San Faustino-Madonnina-Quattroville
+Via Pietro CAVALLI	44.633558600	10.959935100	Crocetta-San Lazzaro-Modena Est
+Via Felice CAVALLOTTI	44.646830500	10.900594000	San Faustino-Madonnina-Quattroville
+Via Guido CAVANI	44.660254300	10.883688300	San Faustino-Madonnina-Quattroville
+Via Alessandro CAVAZZA	44.676213700	10.935353500	Crocetta-San Lazzaro-Modena Est
+Via Gian Antonio CAVAZZI	44.638372300	10.920483600	Buon Pastore-Sant'Agnese-San Damaso
+Stradello CAVE BENTIVOGLIO	44.598608800	10.959842200	Buon Pastore-Sant'Agnese-San Damaso
+Stradello CAVE CIMITERO	44.650798700	10.802456800	San Faustino-Madonnina-Quattroville
+Stradello CAVE CONVOGLIO	44.637372100	10.797123700	San Faustino-Madonnina-Quattroville
+Strada CAVE PAOLUCCI	44.572425800	10.941782500	Buon Pastore-Sant'Agnese-San Damaso
+Strada CAVE RAMO	44.654233800	10.869373000	San Faustino-Madonnina-Quattroville
+Stradello CAVE RANGONI	44.632160900	10.795202600	San Faustino-Madonnina-Quattroville
+Stradello CAVE RUBBIANI	44.605376100	10.997620300	Buon Pastore-Sant'Agnese-San Damaso
+Stradello CAVE SALA	44.641096600	10.804877400	San Faustino-Madonnina-Quattroville
+Strada CAVEDOLE	44.579703500	10.945882300	Buon Pastore-Sant'Agnese-San Damaso
+Via Jacopo CAVEDONE	44.640742900	10.908168500	San Faustino-Madonnina-Quattroville
+Strada CAVEZZO	44.603634800	10.863613600	San Faustino-Madonnina-Quattroville
+Strada CAVO ARGINE	44.659213500	10.957706200	Crocetta-San Lazzaro-Modena Est
+Via CAVO CERCA	44.653990900	10.914715400	Centro Storico
+Via CAVO COLOMBARONA	44.646503800	10.840999000	San Faustino-Madonnina-Quattroville
+Via Benvenuto CELLINI	44.636656600	10.910482800	San Faustino-Madonnina-Quattroville
+Stradello CENNA	44.665161200	10.855600700	San Faustino-Madonnina-Quattroville
+Via Dei CERAMISTI	44.640316000	10.972176100	Crocetta-San Lazzaro-Modena Est
+Via CERERE	44.611955800	10.890165500	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi CERRETTI	44.654677700	10.942877100	Crocetta-San Lazzaro-Modena Est
+Via CERVETTA	44.645479900	10.924386800	Centro Storico
+Via Bernardino CERVI	44.659551300	10.898291000	San Faustino-Madonnina-Quattroville
+Via CERVIA	44.621395400	10.917591800	Buon Pastore-Sant'Agnese-San Damaso
+Via CERVINO	44.658012800	10.947919900	Crocetta-San Lazzaro-Modena Est
+Via Andrea CESALPINO	44.642258200	10.911866200	San Faustino-Madonnina-Quattroville
+Via Franco CESANA	44.635944500	10.948656200	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio CESARI	44.657915000	10.914883500	Centro Storico
+Via CESENA	44.624449800	10.911829400	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi CHERUBINI	44.636898300	10.955761800	Crocetta-San Lazzaro-Modena Est
+Via CHIAVARI	44.627780500	10.934815300	Buon Pastore-Sant'Agnese-San Damaso
+Strada CHIESA COLLEGARA	44.600461300	10.981296200	Buon Pastore-Sant'Agnese-San Damaso
+Via Damiano CHIESA	44.659933700	10.945616500	Crocetta-San Lazzaro-Modena Est
+Strada CHIESA MARZAGLIA	44.651802700	10.802887500	San Faustino-Madonnina-Quattroville
+Strada CHIESA SALICETA SAN GIULIANO	44.624899800	10.898891500	San Faustino-Madonnina-Quattroville
+Stradello CHIESA VILLANOVA	44.687082500	10.919309100	San Faustino-Madonnina-Quattroville
+Via Rocco CHINNICI	44.623419700	10.916989400	Buon Pastore-Sant'Agnese-San Damaso
+Via CHIOGGIA	44.626591100	10.919600900	Buon Pastore-Sant'Agnese-San Damaso
+Via Oreste CHIOSSI	44.580577300	10.939357600	Buon Pastore-Sant'Agnese-San Damaso
+Viale Enrico CIALDINI	44.659324800	10.918900600	Crocetta-San Lazzaro-Modena Est
+Via CILE	44.662299100	10.963512000	Crocetta-San Lazzaro-Modena Est
+Via Francesco CILEA	44.638479100	10.957921700	Crocetta-San Lazzaro-Modena Est
+Via Giovanni CIMABUE	44.630928400	10.901713500	San Faustino-Madonnina-Quattroville
+Via Domenico CIMAROSA	44.638193400	10.949587900	Crocetta-San Lazzaro-Modena Est
+Strada CIMITERO SAN CATALDO	44.662490800	10.903376800	San Faustino-Madonnina-Quattroville
+Via CIMONE	44.656541800	10.947323000	Crocetta-San Lazzaro-Modena Est
+Via CINQUE TERRE	44.619807300	10.930974600	Buon Pastore-Sant'Agnese-San Damaso
+Parco  CITTA DI LONDRINA	44.643665150	10.903188698	San Faustino-Madonnina-Quattroville
+Piazza Della CITTADELLA	44.654609200	10.918475800	Centro Storico
+Viale Della CITTADELLA	44.652777800	10.918950000	Centro Storico
+Via CIVIDALE	44.627061700	10.918327700	Buon Pastore-Sant'Agnese-San Damaso
+Vicolo Camillo COCCAPANI	44.647458600	10.922236400	Centro Storico
+Via CODROIPO	44.626558900	10.927148800	Buon Pastore-Sant'Agnese-San Damaso
+Strada COGNENTO	44.636141100	10.872661900	San Faustino-Madonnina-Quattroville
+Strada COLLEGARA	44.606329100	10.970404700	Buon Pastore-Sant'Agnese-San Damaso
+Strada COLLEGAROLA	44.614015100	10.951829600	Buon Pastore-Sant'Agnese-San Damaso
+Via Cristoforo COLOMBO	44.656175100	10.891282600	San Faustino-Madonnina-Quattroville
+Via Vittoria COLONNA	44.600043500	10.971706900	Buon Pastore-Sant'Agnese-San Damaso
+Via COLTELLINI	44.647161900	10.927196000	Centro Storico
+Via COMO	44.624877900	10.930252200	Buon Pastore-Sant'Agnese-San Damaso
+Via Dino COMPAGNI	44.656419200	10.909598000	Centro Storico
+Via CONCO	44.628272500	10.918385500	Buon Pastore-Sant'Agnese-San Damaso
+Via Federico CONFALONIERI	44.633438200	10.938544400	Buon Pastore-Sant'Agnese-San Damaso
+Strada CONFINE	44.683930000	10.869962900	San Faustino-Madonnina-Quattroville
+Via Antonio CONSETTI	44.629552200	10.902643200	Buon Pastore-Sant'Agnese-San Damaso
+Strada CONTORNO COGNENTO	44.634261000	10.870183000	San Faustino-Madonnina-Quattroville
+Strada CONTRADA	44.620156100	10.890187000	San Faustino-Madonnina-Quattroville
+Via Valentino CONTRI	44.641927700	10.929255800	Centro Storico
+Via Alessandro COPPI	44.628915200	10.905921400	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe COPPOLA	44.651670000	10.894234500	San Faustino-Madonnina-Quattroville
+Via Alfeo CORASSORI	44.641851100	10.901126400	San Faustino-Madonnina-Quattroville
+Via Arcangelo CORELLI	44.645862000	10.943654400	Crocetta-San Lazzaro-Modena Est
+Via Fermo CORNI	44.638134800	10.897837500	San Faustino-Madonnina-Quattroville
+Via De' CORREGGI	44.646353300	10.922097500	Centro Storico
+Via Girolamo CORRIDORE	44.647028500	10.899998500	San Faustino-Madonnina-Quattroville
+Via Edoardo CORSINI	44.643713000	10.893184600	San Faustino-Madonnina-Quattroville
+Via Gregorio CORTESE	44.640369800	10.942235000	Crocetta-San Lazzaro-Modena Est
+Via Bonaventura CORTI	44.656841700	10.944166700	Crocetta-San Lazzaro-Modena Est
+Via  CORTINA DAMPEZZO	44.630359800	10.921716800	Buon Pastore-Sant'Agnese-San Damaso
+Via Cesare COSTA	44.656818800	10.911915500	Centro Storico
+Via Delle COSTELLAZIONI	44.633880400	10.896973400	San Faustino-Madonnina-Quattroville
+Parco Della COSTITUZIONE	44.627169350	10.922450868	Buon Pastore-Sant'Agnese-San Damaso
+Via COSTRIGNANO	44.636334200	10.936794800	Buon Pastore-Sant'Agnese-San Damaso
+Via CREMA	44.622959300	10.928794700	Buon Pastore-Sant'Agnese-San Damaso
+Via Olinto CREMASCHI	44.689255600	10.920357700	San Faustino-Madonnina-Quattroville
+Via CREMONA	44.626159300	10.928194400	Buon Pastore-Sant'Agnese-San Damaso
+Via Arsenio CRESPELLANI	44.645291900	10.941504800	Crocetta-San Lazzaro-Modena Est
+Viale Francesco CRISPI	44.653586300	10.931266400	Centro Storico
+Via Benedetto CROCE	44.664070300	10.922878500	Crocetta-San Lazzaro-Modena Est
+Via CROCETTA	44.652963100	10.941438600	Crocetta-San Lazzaro-Modena Est
+Via CUBA	44.661398600	10.965328700	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe CUBONI	44.652833800	10.939805300	Crocetta-San Lazzaro-Modena Est
+Strada CUCCHIARA	44.613206500	10.846712100	San Faustino-Madonnina-Quattroville
+Via Domenico CUCCHIARI	44.636714800	10.935782500	Buon Pastore-Sant'Agnese-San Damaso
+Via CUNEO	44.628203000	10.940386300	Buon Pastore-Sant'Agnese-San Damaso
+Via Marie CURIE	44.643277200	10.897323200	San Faustino-Madonnina-Quattroville
+Strada CURTATONA	44.620354700	10.960944200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giorgio CUVIER	44.622405700	10.890925500	San Faustino-Madonnina-Quattroville
+Via Duccio DA BONINSEGNA	44.633486000	10.917572000	Buon Pastore-Sant'Agnese-San Damaso
+Via Ugo DA CARPI	44.646389200	10.918171400	Centro Storico
+Via Vasco DA GAMA	44.657019300	10.893370600	San Faustino-Madonnina-Quattroville
+Via Cristoforo DA LENDINARA	44.636704000	10.936763300	Buon Pastore-Sant'Agnese-San Damaso
+Via Jacopo DA LENTINI	44.659894900	10.899966000	San Faustino-Madonnina-Quattroville
+Via Pillio DA MEDICINA	44.640218000	10.913038100	San Faustino-Madonnina-Quattroville
+Via Pier Luigi DA PALESTRINA	44.635781700	10.951785000	Crocetta-San Lazzaro-Modena Est
+Via Antonio DA SANGALLO	44.631654200	10.918496500	Buon Pastore-Sant'Agnese-San Damaso
+Via Jacopone DA TODI	44.658758700	10.903603700	San Faustino-Madonnina-Quattroville
+Via Giovanni DA VERAZZANO	44.656000800	10.892861200	San Faustino-Madonnina-Quattroville
+Via  Salvo DACQUISTO	44.330921000	10.843537000	La Villa
+Via Delle DALIE	44.600293600	10.976758700	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo Alberto DALLA CHIESA	44.619935300	10.923400400	Buon Pastore-Sant'Agnese-San Damaso
+Via Raimondo DALLA COSTA	44.659109900	10.970314200	Crocetta-San Lazzaro-Modena Est
+Via Darfo DALLAI	44.649566600	10.901025400	San Faustino-Madonnina-Quattroville
+Via Giovanni DALTON	44.650846500	10.960199900	Crocetta-San Lazzaro-Modena Est
+Via DANIMARCA	44.662057000	10.942531700	Crocetta-San Lazzaro-Modena Est
+Via  Gabriele DANNUNZIO	44.659639400	10.875011700	San Faustino-Madonnina-Quattroville
+Via  Guido DAREZZO	44.638904600	10.945952500	Crocetta-San Lazzaro-Modena Est
+Via  Massimo DAZEGLIO	44.660299400	10.894825800	San Faustino-Madonnina-Quattroville
+Via Giovanni DE AGOSTINI	44.657511700	10.889531000	San Faustino-Madonnina-Quattroville
+Via Edmondo DE AMICIS	44.658364300	10.903374500	San Faustino-Madonnina-Quattroville
+Via  Fabrizio DE ANDRE	44.661769900	10.898298300	San Faustino-Madonnina-Quattroville
+Via Eugenio DE GIACOMI	44.630056600	10.914520600	Buon Pastore-Sant'Agnese-San Damaso
+Via Enrico DE NICOLA	44.651192400	10.963191400	Crocetta-San Lazzaro-Modena Est
+Via  Bartolomeo DE POLLI	44.629683000	10.924987700	Buon Pastore-Sant'Agnese-San Damaso
+Via Claudio Achille DEBUSSY	44.635215100	10.970154300	Crocetta-San Lazzaro-Modena Est
+Via DECORATI AL VALOR CIVILE	44.609587400	10.864279000	San Faustino-Madonnina-Quattroville
+Via DECORATI AL VALOR MILITARE	44.608844800	10.865445700	San Faustino-Madonnina-Quattroville
+Via Gabriella DEGLI ESPOSTI	44.633530900	10.948808300	Buon Pastore-Sant'Agnese-San Damaso
+Via Mario DEL MONTE	44.658690400	10.932794500	Crocetta-San Lazzaro-Modena Est
+Via Andrea DEL SARTO	44.637134500	10.912477800	San Faustino-Madonnina-Quattroville
+Via Grazia DELEDDA	44.656926400	10.904517700	San Faustino-Madonnina-Quattroville
+Via Antonio DELFINI	44.654330700	10.881273700	San Faustino-Madonnina-Quattroville
+Via Guglielmo DELLA CELLA	44.636749400	10.932037200	Buon Pastore-Sant'Agnese-San Damaso
+Via Cesare DELLA CHIESA	44.650747400	10.897213400	San Faustino-Madonnina-Quattroville
+Via Piero DELLA FRANCESCA	44.635688500	10.913055500	Buon Pastore-Sant'Agnese-San Damaso
+Via Pico DELLA MIRANDOLA	44.655725200	10.924865400	Crocetta-San Lazzaro-Modena Est
+Via Pier DELLA VIGNA	44.659894900	10.899966000	San Faustino-Madonnina-Quattroville
+Via Matilde DI CANOSSA	44.636912300	10.923407300	Buon Pastore-Sant'Agnese-San Damaso
+Via Edoardo DI CAPUA	44.636439000	10.950363800	Crocetta-San Lazzaro-Modena Est
+Calle DI LUCA	44.643300300	10.920191000	Centro Storico
+Via Giuseppe DI VITTORIO	44.693285400	10.839096800	Palazzo Rangoni
+Strada Del DIAMANTE	44.627166700	10.952076400	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo DIECI	44.688567800	10.916531800	San Faustino-Madonnina-Quattroville
+Via Emilio DIENA	44.656429900	10.935697000	Crocetta-San Lazzaro-Modena Est
+Via DIVISIONE ACQUI	44.649130800	10.939472800	Crocetta-San Lazzaro-Modena Est
+Via Reinhardt DJANGO	44.594597700	10.958337900	Buon Pastore-Sant'Agnese-San Damaso
+Via Luciano DODI	44.693870300	10.965992400	Crocetta-San Lazzaro-Modena Est
+Via DOGALI	44.653310300	10.921860000	Centro Storico
+Via Del DOMENICHINO	44.634500700	10.918805400	Buon Pastore-Sant'Agnese-San Damaso
+Via DOMODOSSOLA	44.626534100	10.941491900	Buon Pastore-Sant'Agnese-San Damaso
+Via Pio DONATI	44.660274300	10.939458700	Crocetta-San Lazzaro-Modena Est
+Via DONATORI DI SANGUE	44.632724600	10.900300000	San Faustino-Madonnina-Quattroville
+Via Gaetano DONIZETTI	44.645994600	10.936333800	Centro Storico
+Via DONZI	44.645880500	10.928973100	Centro Storico
+Piazzetta Don Giuseppe DOSSETTI	44.632991400	10.950615200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giovanni DOSSO DOSSI	44.633702000	10.918977800	Buon Pastore-Sant'Agnese-San Damaso
+Strada DOTTA	44.695732400	10.985324400	Crocetta-San Lazzaro-Modena Est
+Via Dei DRAGATORI	44.663910000	10.944584200	Crocetta-San Lazzaro-Modena Est
+Via Aldo DUGONI	44.649759100	10.900386900	San Faustino-Madonnina-Quattroville
+Via Delle DUNE	44.645606000	10.841910700	San Faustino-Madonnina-Quattroville
+Corso DUOMO	44.646675500	10.924996300	Centro Storico
+Via Tommaso Alva EDISON	44.645683800	10.913780500	San Faustino-Madonnina-Quattroville
+Complanare Luigi EINAUDI	44.613327000	10.896115700	San Faustino-Madonnina-Quattroville
+Via Albert EINSTEIN	44.638322500	10.893199500	San Faustino-Madonnina-Quattroville
+Via Duke ELLINGTON	44.629603800	10.975062700	Crocetta-San Lazzaro-Modena Est
+Via Est EMILIA	44.654830900	10.929633700	Crocetta-San Lazzaro-Modena Est
+Via Ovest EMILIA	44.666280800	10.986648700	Crocetta-San Lazzaro-Modena Est
+Via ENNA	44.593203400	10.947346000	Buon Pastore-Sant'Agnese-San Damaso
+Vicolo Dell'EREMITA	44.646257700	10.920908900	Centro Storico
+Via ERICE	44.613326700	10.938954900	Buon Pastore-Sant'Agnese-San Damaso
+Piazzale Degli ERRI	44.648069200	10.922534500	Centro Storico
+Viale EUCLIDE	44.645339000	10.886781800	San Faustino-Madonnina-Quattroville
+Via EUROPA	44.663919700	10.932401200	Crocetta-San Lazzaro-Modena Est
+Via Edmondo FABBRI	44.661757100	10.893162300	San Faustino-Madonnina-Quattroville
+Via Severino FABRIANI	44.649643600	10.919889800	Centro Storico
+Via Nicola FABRIZI	44.640658800	10.929400100	Centro Storico
+Via FAENZA	44.623070400	10.913916700	Buon Pastore-Sant'Agnese-San Damaso
+Via Del FAGGIO	44.690262100	10.969891900	Crocetta-San Lazzaro-Modena Est
+Viale Giovanni FALCONE	44.620976400	10.920928000	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei FALEGNAMI	44.636922300	10.972155900	Crocetta-San Lazzaro-Modena Est
+Via Gabriele FALLOPPIA	44.647465800	10.926252700	Centro Storico
+Via Pietro FANFANI	44.661734400	10.894774800	San Faustino-Madonnina-Quattroville
+Via Manfredo FANTI	44.654830900	10.929633700	Crocetta-San Lazzaro-Modena Est
+Via Luigi Carlo FARINI	44.698528300	11.032719100	Luogo
+Via Sante FATTORI	44.641623100	10.913197900	San Faustino-Madonnina-Quattroville
+Via Enzo FELICIANI	44.634045200	10.937597000	Buon Pastore-Sant'Agnese-San Damaso
+Via FELTRE	44.630148700	10.923424800	Buon Pastore-Sant'Agnese-San Damaso
+Via Enrico FERMI	44.644383500	10.913278900	San Faustino-Madonnina-Quattroville
+Via FERRARA	44.620512500	10.912136300	Buon Pastore-Sant'Agnese-San Damaso
+Parco Enzo FERRARI	44.649967400	10.907460488	San Faustino-Madonnina-Quattroville
+Via Paolo FERRARI	44.649528900	10.938643500	Centro Storico
+Via Contardo FERRINI	44.632033300	10.921796600	Buon Pastore-Sant'Agnese-San Damaso
+Stradello FILANDA	44.588974700	10.953107500	Buon Pastore-Sant'Agnese-San Damaso
+Via Fabio FILZI	44.658370300	10.947286200	Crocetta-San Lazzaro-Modena Est
+Via FINLANDIA	44.667212300	10.938491400	Crocetta-San Lazzaro-Modena Est
+Viale Marcello FINZI	44.658351000	10.930752000	Crocetta-San Lazzaro-Modena Est
+Via Valentino FIORAVANTI	44.640473500	10.959296700	Crocetta-San Lazzaro-Modena Est
+Via Antonio FIORDIBELLO	44.652533600	10.931084600	Centro Storico
+Via Francesco FIORENTINO	44.666557400	10.913467400	Crocetta-San Lazzaro-Modena Est
+Via Don Pasquino FIORENZI	44.655056100	10.895550900	San Faustino-Madonnina-Quattroville
+Via FIRENZE	44.615438200	10.932205700	Buon Pastore-Sant'Agnese-San Damaso
+Stradello FIUME	44.669186900	10.901785400	San Faustino-Madonnina-Quattroville
+Via Giuseppe FLAIANI	44.637011500	10.903547100	San Faustino-Madonnina-Quattroville
+Via Alexander FLEMING	44.638285000	10.894099400	San Faustino-Madonnina-Quattroville
+Via Antonio FOGAZZARO	44.662487800	10.888337900	San Faustino-Madonnina-Quattroville
+Via De' FOGLIANI	44.641964300	10.923700900	Centro Storico
+Via Silvino FOLLONI	44.624223000	10.973546700	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei FONDITORI	44.634406100	10.975937200	Crocetta-San Lazzaro-Modena Est
+Stradello FONTANA	44.580871300	10.919995800	Buon Pastore-Sant'Agnese-San Damaso
+Via Lodovico FONTANA	44.636391100	10.935297500	Buon Pastore-Sant'Agnese-San Damaso
+Viale Achille FONTANELLI	44.652899000	10.925967700	Centro Storico
+Via Antonio FONTANESI	44.637601800	10.909783800	San Faustino-Madonnina-Quattroville
+Via  FONTE DABISSO	44.647891800	10.927501900	Centro Storico
+Via FONTERASO	44.647584400	10.928621700	Centro Storico
+Via Francesco FORCIROLI	44.657133400	10.901686300	San Faustino-Madonnina-Quattroville
+Strada FORGHIERI	44.697060700	10.916703300	San Faustino-Madonnina-Quattroville
+Via Carlo FORLANINI	44.631904200	10.899614100	San Faustino-Madonnina-Quattroville
+Via  FORLI	44.621012500	10.917443900	Buon Pastore-Sant'Agnese-San Damaso
+Strada FORMIGINA	44.629832100	10.889213700	San Faustino-Madonnina-Quattroville
+Strada Delle FORNACI	44.611157700	10.892885300	Buon Pastore-Sant'Agnese-San Damaso
+Vicolo FORNI	44.644979500	10.924738000	Centro Storico
+Vicolo FOSCHIERI	44.643621800	10.924284700	Centro Storico
+Via Ugo FOSCOLO	44.660529700	10.897114600	San Faustino-Madonnina-Quattroville
+Stradello FOSSA BURACCHIONE	44.604907500	10.864639000	San Faustino-Madonnina-Quattroville
+Stradello FOSSA GAZZUOLI	44.628365800	10.833977300	San Faustino-Madonnina-Quattroville
+Via FOSSE	44.645527200	10.929868500	Centro Storico
+Via FOSSOLI	44.633197800	10.935308000	Buon Pastore-Sant'Agnese-San Damaso
+Via FRANCIA	44.667813800	10.937499300	Crocetta-San Lazzaro-Modena Est
+Via Benjamin FRANKLIN	44.644581800	10.916698900	Centro Storico
+Via Del FRASSINO	44.684926200	10.967801000	Crocetta-San Lazzaro-Modena Est
+Vicolo FRASSONE	44.644518600	10.923326300	Centro Storico
+Stradello Dei FRATI	44.704257300	10.946626600	San Faustino-Madonnina-Quattroville
+Rua Dei Minori FRATI	44.643125300	10.923329400	Centro Storico
+Rua FREDA	44.644201000	10.921689600	Centro Storico
+Via Giuseppe FREGNI	44.634073300	10.933341700	Buon Pastore-Sant'Agnese-San Damaso
+Via Leopoldo FREGOLI	44.653740800	10.915598100	Centro Storico
+Via Gerolamo FRESCOBALDI	44.635764200	10.971245028	Crocetta-San Lazzaro-Modena Est
+Via Tommaso FRIGNANI	44.632719500	10.904139500	Buon Pastore-Sant'Agnese-San Damaso
+Via FROSINONE	44.621410200	10.938963600	Buon Pastore-Sant'Agnese-San Damaso
+Via  Giuseppe FUCA	44.650637300	10.954982100	Crocetta-San Lazzaro-Modena Est
+Via Renato FUCINI	44.667429800	10.911527800	Crocetta-San Lazzaro-Modena Est
+Via Michele FUSCO	44.632795900	10.961863200	Crocetta-San Lazzaro-Modena Est
+Via Andrea e Giovanni GABRIELI	44.639645200	10.959355800	Crocetta-San Lazzaro-Modena Est
+Via Paolo GADALDINO	44.646389200	10.918171400	Centro Storico
+Via Paolo GADDI	44.642272300	10.911902600	San Faustino-Madonnina-Quattroville
+Via Antonello GAGGINI	44.631749200	10.916527200	Buon Pastore-Sant'Agnese-San Damaso
+Stradello GALASSI	44.618590100	10.865104800	San Faustino-Madonnina-Quattroville
+Via Cristoforo GALAVERNA	44.654557000	10.914575500	Centro Storico
+Via GALEAZZA	44.788902500	11.135890600	Ca' Benati
+Via Claudio GALENO	44.643970600	10.898794400	San Faustino-Madonnina-Quattroville
+Via Galileo GALILEI	44.638739800	10.888320400	San Faustino-Madonnina-Quattroville
+Via Guido GALLI	44.617009700	10.924227200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe GALLIANO	44.650766400	10.895095000	San Faustino-Madonnina-Quattroville
+Via Dei GALLUCCI	44.643307900	10.929525300	Centro Storico
+Via Giovanni GALVANI	44.654549200	10.929720600	Centro Storico
+Via Del GAMBERO	44.639516300	10.937508000	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe GAMBIGLIANI ZOCCOLI	44.606552900	10.863298900	San Faustino-Madonnina-Quattroville
+Via GANACETO	44.651742400	10.927012600	Centro Storico
+Via Mohandas GANDHI	44.655233900	10.962582000	Crocetta-San Lazzaro-Modena Est
+Via Luigi Alberto GANDINI	44.628194000	10.942825400	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio GANDUSIO	44.653355800	10.916259500	Centro Storico
+Via Alcide GARAGNANI	44.640399300	10.963117200	Crocetta-San Lazzaro-Modena Est
+Largo Giuseppe GARIBALDI	44.643971500	10.931974700	Centro Storico
+Via Del GAROFANO	44.603613600	10.968887900	Buon Pastore-Sant'Agnese-San Damaso
+Via Rino GASPARINI	44.641140300	10.967674200	Crocetta-San Lazzaro-Modena Est
+Via De' GAVASSETI	44.650908800	10.902984400	San Faustino-Madonnina-Quattroville
+Via Lodovico GAVIOLI	44.647223800	10.937482400	Centro Storico
+Stradello GAZZA	44.578913400	10.938206400	Buon Pastore-Sant'Agnese-San Damaso
+Via Domenico GAZZADI	44.666987800	10.913847900	Crocetta-San Lazzaro-Modena Est
+Via Luigi GAZZOTTI	44.629317300	10.975074100	Crocetta-San Lazzaro-Modena Est
+Via Rodolfo GELMINI	44.627388100	10.947457700	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei GELSOMINI	44.585900000	10.971444800	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei GEMELLI	44.627401700	10.891416000	San Faustino-Madonnina-Quattroville
+Via GEMONA	44.628292800	10.922684400	Buon Pastore-Sant'Agnese-San Damaso
+Via GENOVA	44.632611500	10.934916000	Buon Pastore-Sant'Agnese-San Damaso
+Via Della GENZIANA	44.585973200	10.971270500	Buon Pastore-Sant'Agnese-San Damaso
+Via GERMANIA	44.670501500	10.934839500	Crocetta-San Lazzaro-Modena Est
+Via Ermanno GEROSA	44.662205000	10.929626200	Crocetta-San Lazzaro-Modena Est
+Via GHERARDA	44.645876700	10.928973800	Centro Storico
+Via Pietro Ercole GHERARDI	44.652512000	10.914275200	Centro Storico
+Strada GHERBELLA	44.599607400	10.947436600	Buon Pastore-Sant'Agnese-San Damaso
+Strada GHERLINO	44.714070800	10.898404600	San Faustino-Madonnina-Quattroville
+Via Della GHIAIA	44.647058200	10.842759700	San Faustino-Madonnina-Quattroville
+Via Francesco GHIARONI	44.615920700	10.927205300	Buon Pastore-Sant'Agnese-San Damaso
+Via Del GHIRLANDAIO	44.636656600	10.910482800	San Faustino-Madonnina-Quattroville
+Via Dei GIACINTI	44.601415300	10.977811300	Buon Pastore-Sant'Agnese-San Damaso
+Via Del GIAGGIOLO	44.602597300	10.971684300	Buon Pastore-Sant'Agnese-San Damaso
+Via Del GIAMBELLINO	44.627300700	10.903417000	Buon Pastore-Sant'Agnese-San Damaso
+Via Pietro GIANNONE	44.641952000	10.920154900	Centro Storico
+Via Pietro GIARDINI	44.609486300	10.870048300	San Faustino-Madonnina-Quattroville
+Vicolo GIARDINO	44.651426100	10.931734500	Centro Storico
+Parco GIARDINO DUCALE ESTENSE	44.649933800	10.932892302	Centro Storico
+Stradello GIAROLA	44.640750200	10.819773600	San Faustino-Madonnina-Quattroville
+Via Giuseppe GIBELLINI	44.630928400	10.901713500	San Faustino-Madonnina-Quattroville
+Via Del GIGLIO	44.659224400	10.892005700	San Faustino-Madonnina-Quattroville
+Via Delle GINESTRE	44.602906600	10.970402000	Buon Pastore-Sant'Agnese-San Damaso
+Via Natalia GINZBURG	44.657704200	10.913445400	Centro Storico
+Via Giovanni GIOLITTI	44.654768800	10.946382500	Crocetta-San Lazzaro-Modena Est
+Via Umberto GIORDANO	44.635984600	10.956003900	Crocetta-San Lazzaro-Modena Est
+Via Emilio GIORGI	44.638666600	10.931791700	Buon Pastore-Sant'Agnese-San Damaso
+Via Del GIORGIONE	44.638321100	10.908776200	San Faustino-Madonnina-Quattroville
+Via GIOTTO	44.631255900	10.901049500	San Faustino-Madonnina-Quattroville
+Stradello GIOVANARDI	44.641658600	10.830250300	San Faustino-Madonnina-Quattroville
+Via Del GIRASOLE	44.595791600	10.973232900	Buon Pastore-Sant'Agnese-San Damaso
+Via Del GIUNCO	44.586459700	10.971802200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe GIUSTI	44.661531400	10.895404700	San Faustino-Madonnina-Quattroville
+Via Dei GLADIOLI	44.599069300	10.980159400	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei GLICINI	44.601714100	10.971094700	Buon Pastore-Sant'Agnese-San Damaso
+Via Piero GOBETTI	44.634576600	10.928297800	Buon Pastore-Sant'Agnese-San Damaso
+Via GOITO	44.581287200	10.936826300	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo GOLDONI	44.600828300	10.865713300	San Faustino-Madonnina-Quattroville
+Via Camillo GOLGI	44.628280700	10.896483900	San Faustino-Madonnina-Quattroville
+Via Luigi GORDIGIANI	44.630239300	10.974414300	Crocetta-San Lazzaro-Modena Est
+Via GORIZIA	44.628648900	10.920007400	Buon Pastore-Sant'Agnese-San Damaso
+Via Ermanno GORRIERI	44.657215900	10.932591200	Crocetta-San Lazzaro-Modena Est
+Via Glauco GOTTARDI	44.631530400	10.949083300	Buon Pastore-Sant'Agnese-San Damaso
+Via Gaspare GOZZI	44.657565800	10.902328600	San Faustino-Madonnina-Quattroville
+Via Benozzo GOZZOLI	44.631288300	10.903670200	Buon Pastore-Sant'Agnese-San Damaso
+Via GRADISCA	44.627061700	10.918327700	Buon Pastore-Sant'Agnese-San Damaso
+Via GRADO	44.630385000	10.922741500	Buon Pastore-Sant'Agnese-San Damaso
+Viale Antonio GRAMSCI	44.661580600	10.940731400	Crocetta-San Lazzaro-Modena Est
+Via GRAN BRETAGNA	44.668651400	10.933893500	Crocetta-San Lazzaro-Modena Est
+Piazza GRANDE	44.645988200	10.925688887	Centro Storico
+Strada GRANDE	44.609512200	10.989024400	Buon Pastore-Sant'Agnese-San Damaso
+Via Achille GRANDI	44.659092100	10.937238900	Crocetta-San Lazzaro-Modena Est
+Via Del GRANO	44.688720700	10.965529300	Crocetta-San Lazzaro-Modena Est
+Via Dei GRASOLFI	44.643868300	10.925172400	Centro Storico
+Vicolo De' GRASSETTI	44.644338500	10.923708600	Centro Storico
+Via Girolamo GRAZIANI	44.652394500	10.941063100	Crocetta-San Lazzaro-Modena Est
+Vicolo Delle GRAZIE	44.645791300	10.920156700	Centro Storico
+Via Giuseppe GRAZIOSI	44.523081600	10.859922100	Castello Messori
+Via GRECIA	44.666354350	10.935281132	Crocetta-San Lazzaro-Modena Est
+Via Giovanni GRILLENZONI	44.640826000	10.908093500	San Faustino-Madonnina-Quattroville
+Via Geminiano GRIMELLI	44.646686400	10.932939500	Centro Storico
+Via GROSSETO	44.617016800	10.932033300	Buon Pastore-Sant'Agnese-San Damaso
+Via Don Marzio GUALMINI	44.638479500	10.899030300	San Faustino-Madonnina-Quattroville
+Via Ugo GUANDALINI	44.646026000	10.846564600	San Faustino-Madonnina-Quattroville
+Via Giovanni GUARESCHI	44.629577000	10.870020000	San Faustino-Madonnina-Quattroville
+Via Guarino GUARINI	44.639138200	10.915635700	Centro Storico
+Via Del GUERCINO	44.635557700	10.907145900	San Faustino-Madonnina-Quattroville
+Via CHE GUEVARA	44.657086700	10.958957900	Crocetta-San Lazzaro-Modena Est
+Via Francesco GUICCIARDINI	44.638471500	10.918211600	Centro Storico
+Via Camillo GUIDELLI	44.607286000	10.861802300	San Faustino-Madonnina-Quattroville
+Via Aldo GUIDETTI	44.642116700	10.964191400	Crocetta-San Lazzaro-Modena Est
+Piazza GUIDO ROSSA	44.677450100	11.040029000	La Prospettiva
+Via Luisa GUIDOTTI MISTRALI	44.632001500	10.951581100	Buon Pastore-Sant'Agnese-San Damaso
+Via Guido GUINIZZELLI	44.659501700	10.901343100	San Faustino-Madonnina-Quattroville
+Via Renato GUTTUSO	44.626906900	10.904885500	Buon Pastore-Sant'Agnese-San Damaso
+Via Margherita HACK	44.628162600	10.893692700	San Faustino-Madonnina-Quattroville
+Largo HANNOVER	44.643637500	10.929737100	Centro Storico
+Via Paul HARRIS	44.636491700	10.962647600	Crocetta-San Lazzaro-Modena Est
+Via HO CHI MINH	44.654604100	10.959820700	Crocetta-San Lazzaro-Modena Est
+Via IGEA	44.613851800	10.887416200	San Faustino-Madonnina-Quattroville
+Via IMOLA	44.622325200	10.910342200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe IMPASTATO	44.688914600	10.919712700	San Faustino-Madonnina-Quattroville
+Via IMPERIA	44.633327200	10.936376400	Buon Pastore-Sant'Agnese-San Damaso
+Via Degli IMPRENDITORI	44.638130300	10.973287900	Crocetta-San Lazzaro-Modena Est
+Via INDIA	44.674216900	10.952219500	Crocetta-San Lazzaro-Modena Est
+Viale Dell'INDIPENDENZA	44.638232300	10.966686900	Crocetta-San Lazzaro-Modena Est
+Via Dell'INDUSTRIA	44.558791000	10.854172700	Casa Vandelli
+Via INTERNATI MILITARI ITALIANI	44.629734000	10.970472100	Crocetta-San Lazzaro-Modena Est
+Via IPPOCRATE	44.645031100	10.901824600	San Faustino-Madonnina-Quattroville
+Viale ITALIA	44.652014600	10.912474100	San Faustino-Madonnina-Quattroville
+Via IVREA	44.625685200	10.944142100	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe JACOPI	44.640326800	10.918667600	San Faustino-Madonnina-Quattroville
+Via Casimiro JODI	44.629552200	10.902643200	Buon Pastore-Sant'Agnese-San Damaso
+Via Athos JORI LISIAT	44.600148600	10.860586100	San Faustino-Madonnina-Quattroville
+Via Francesco JOVINE	44.682633900	10.907414200	San Faustino-Madonnina-Quattroville
+Via JUGOSLAVIA	44.672004800	10.939486800	Crocetta-San Lazzaro-Modena Est
+Via John Fitzgerald KENNEDY	44.655233900	10.962582000	Crocetta-San Lazzaro-Modena Est
+Via Giovanni KEPLERO	44.640095800	10.893329700	San Faustino-Madonnina-Quattroville
+Viale Alessandro LA MARMORA	44.669688500	10.924493800	Crocetta-San Lazzaro-Modena Est
+Via LA SPEZIA	44.630262500	10.933385500	Buon Pastore-Sant'Agnese-San Damaso
+Viale Pio LA TORRE	44.618337300	10.924302000	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio LABRIOLA	44.652847400	10.882049200	San Faustino-Madonnina-Quattroville
+Via Giovanni LAGRANGE	44.640107400	10.896095500	San Faustino-Madonnina-Quattroville
+Via Ferruccio LAMBORGHINI	44.650097400	10.939212900	Centro Storico
+Via Gregorio LAMBRAKIS	44.645950200	10.911430100	San Faustino-Madonnina-Quattroville
+Via Lodovico LANA	44.640468600	10.917892000	Buon Pastore-Sant'Agnese-San Damaso
+Via Del LANCILLOTTO	44.655157400	10.937415000	Crocetta-San Lazzaro-Modena Est
+Via LANFRANCO	44.646365600	10.925769900	Centro Storico
+Via LATINA	44.621910900	10.937752400	Buon Pastore-Sant'Agnese-San Damaso
+Via Brunetto LATINI	44.660610500	10.899717300	San Faustino-Madonnina-Quattroville
+Via LAZIO	44.620521800	10.938804700	Buon Pastore-Sant'Agnese-San Damaso
+Via LEGNANO	44.626765100	10.930694500	Buon Pastore-Sant'Agnese-San Damaso
+Via Franz LEHAR	44.631483000	10.966767700	Crocetta-San Lazzaro-Modena Est
+Stradello LENZINI	44.704346400	10.900756200	San Faustino-Madonnina-Quattroville
+Via Vescovo LEODOINO	44.646765200	10.924365000	Centro Storico
+Via Ruggero LEONCAVALLO	44.640951200	10.942789500	Crocetta-San Lazzaro-Modena Est
+Via Giovanni e Lodovico LEONI	44.653592700	10.902315900	San Faustino-Madonnina-Quattroville
+Via Giacomo LEOPARDI	44.660330000	10.897700100	San Faustino-Madonnina-Quattroville
+Via LERICI	44.618683300	10.932906300	Buon Pastore-Sant'Agnese-San Damaso
+Strada LESIGNANA	44.684816500	10.890355600	San Faustino-Madonnina-Quattroville
+Via LEVANTO	44.630983500	10.937609000	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei LEVI	44.586020700	10.915017300	Buon Pastore-Sant'Agnese-San Damaso
+Piazza Della LIBERAZIONE	44.640640900	10.966315500	Crocetta-San Lazzaro-Modena Est
+Via LIDICE	44.635558600	10.948632800	Buon Pastore-Sant'Agnese-San Damaso
+Via LIGURIA	44.619693100	10.932359600	Buon Pastore-Sant'Agnese-San Damaso
+Via LIMANA	44.629322400	10.918539100	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo LINNEO	44.636347200	10.895023600	San Faustino-Madonnina-Quattroville
+Via Oliviero LIONELLI BACCARINI	44.652963100	10.941438600	Crocetta-San Lazzaro-Modena Est
+Via Filippino LIPPI	44.634961500	10.908556200	San Faustino-Madonnina-Quattroville
+Via Rosario LIVATINO	44.687989600	10.920679900	San Faustino-Madonnina-Quattroville
+Via LIVELLO	44.604387000	10.968902700	Buon Pastore-Sant'Agnese-San Damaso
+Via Davide LIVINGSTONE	44.655268300	10.886831900	San Faustino-Madonnina-Quattroville
+Via Tito LIVIO	44.654995400	10.877398500	San Faustino-Madonnina-Quattroville
+Via LIVIZZANI	44.645781100	10.923031300	Centro Storico
+Via LIVORNO	44.617546100	10.926598700	Buon Pastore-Sant'Agnese-San Damaso
+Via LODI	44.622544800	10.929545000	Buon Pastore-Sant'Agnese-San Damaso
+Via Ippolito LOLLI	44.637842400	10.935338100	Buon Pastore-Sant'Agnese-San Damaso
+Via Cesare LOMBROSO	44.627632700	10.896664500	San Faustino-Madonnina-Quattroville
+Via Baldassarre LONGHENA	44.628445900	10.914558700	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei LORAGHI	44.637133400	10.913904700	San Faustino-Madonnina-Quattroville
+Via Carlo LORENZINI	44.662223500	10.888894400	San Faustino-Madonnina-Quattroville
+Via Bernardino LOSCHI	44.633813600	10.918435100	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei LOVOLETI	44.647742200	10.927924800	Centro Storico
+Via LUCCA	44.616334900	10.927541800	Buon Pastore-Sant'Agnese-San Damaso
+Via Dino LUGLI	44.629529200	10.963537600	Buon Pastore-Sant'Agnese-San Damaso
+Via LUGO	44.622417300	10.916021200	Buon Pastore-Sant'Agnese-San Damaso
+Strada LUIGINA	44.697617400	10.905624200	San Faustino-Madonnina-Quattroville
+Stradello LUIGINI	44.670081500	10.869721700	San Faustino-Madonnina-Quattroville
+Via Gian Battista LULLI	44.637409000	10.949981200	Crocetta-San Lazzaro-Modena Est
+Via Patrice LUMUMBA	44.657087000	10.961334600	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe LUOSI	44.643647400	10.916386500	San Faustino-Madonnina-Quattroville
+Stradello Del LUPO	44.618619000	10.887601300	San Faustino-Madonnina-Quattroville
+Via Ermenegildo LUPPI	44.628547100	10.911876000	Buon Pastore-Sant'Agnese-San Damaso
+Via LUSSEMBURGO	44.672752200	10.933462900	Crocetta-San Lazzaro-Modena Est
+Via Bruno LUSVARDI	44.656380600	10.903126800	San Faustino-Madonnina-Quattroville
+Via Martin LUTHER KING	44.657160600	10.965924000	Crocetta-San Lazzaro-Modena Est
+Via Giovanni LUVINI	44.635730900	10.871516200	San Faustino-Madonnina-Quattroville
+Stradello Del LUZZO	44.630996200	10.897647200	San Faustino-Madonnina-Quattroville
+Largo MADRE TERESA DI CALCUTTA	44.634191650	10.925247919	Buon Pastore-Sant'Agnese-San Damaso
+Via Vincenzo MAESTRI	44.637533400	10.913619100	San Faustino-Madonnina-Quattroville
+Via MAFALDA DI SAVOIA	44.631074500	10.951644000	Buon Pastore-Sant'Agnese-San Damaso
+Via Ferdinando MAGELLANO	44.657511700	10.889531000	San Faustino-Madonnina-Quattroville
+Via MAGENTA	44.623897500	10.932273000	Buon Pastore-Sant'Agnese-San Damaso
+Via Alberto MAGNAGHI	44.646066900	10.852251200	San Faustino-Madonnina-Quattroville
+Via Ubaldo MAGNAVACCA	44.638342000	10.917931000	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi MAINI	44.656172900	10.914560900	Centro Storico
+Via Ettore MAIORANA	44.644587900	10.887783300	San Faustino-Madonnina-Quattroville
+Via Giovan Battista MALAGOLI	44.652093300	10.934598700	Centro Storico
+Via Adeodato MALATESTA	44.540452500	10.811567300	Quartiere Fiorano Centro
+Via Demos MALAVASI	44.641120200	10.963012400	Crocetta-San Lazzaro-Modena Est
+Via Fernando MALAVOLTI	44.651885500	10.958244000	Crocetta-San Lazzaro-Modena Est
+Via Francesco MALIPIERO	44.635382500	10.969646000	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe MALMUSI	44.640200400	10.935780600	Centro Storico
+Via Marcello MALPIGHI	44.631068500	10.898910600	San Faustino-Madonnina-Quattroville
+Via MALTA	44.671533300	10.939245500	Crocetta-San Lazzaro-Modena Est
+Via Goffredo MAMELI	44.574226100	10.906896900	Ca' Bortolani
+Via Luciano MANARA	44.651882000	10.940657000	Crocetta-San Lazzaro-Modena Est
+Via Della MANIFATTURA DEI TABACCHI	44.652051500	10.928690400	Centro Storico
+Via Daniele MANIN	44.659502100	10.930154100	Crocetta-San Lazzaro-Modena Est
+Via Andrea MANTEGNA	44.629503000	10.913271100	Buon Pastore-Sant'Agnese-San Damaso
+Via MANTOVA	44.624829600	10.928146300	Buon Pastore-Sant'Agnese-San Damaso
+Via De' MANZINI	44.629643400	10.916028200	Buon Pastore-Sant'Agnese-San Damaso
+Piazza Alessandro MANZONI	44.635110000	10.930578500	Buon Pastore-Sant'Agnese-San Damaso
+Via MAR ADRIATICO	44.650423700	10.949866200	Crocetta-San Lazzaro-Modena Est
+Via MAR BALTICO	44.654329900	10.948790400	Crocetta-San Lazzaro-Modena Est
+Via MAR CASPIO	44.653781900	10.945180800	Crocetta-San Lazzaro-Modena Est
+Via MAR DELLA CINA	44.653871600	10.948738600	Crocetta-San Lazzaro-Modena Est
+Via MAR EGEO	44.653464900	10.944125700	Crocetta-San Lazzaro-Modena Est
+Via MAR IONIO	44.651441100	10.943968200	Crocetta-San Lazzaro-Modena Est
+Via MAR LIGURE	44.653002300	10.950455200	Crocetta-San Lazzaro-Modena Est
+Via MAR MEDITERRANEO	44.652975200	10.944590900	Crocetta-San Lazzaro-Modena Est
+Via MAR NERO	44.654849100	10.949426100	Crocetta-San Lazzaro-Modena Est
+Via MAR ROSSO	44.653286100	10.948374800	Crocetta-San Lazzaro-Modena Est
+Via MAR TIRRENO	44.654398200	10.947156100	Crocetta-San Lazzaro-Modena Est
+Via Edoardo MARAGLIANO	44.640670000	10.907158100	San Faustino-Madonnina-Quattroville
+Via Ernesto MARANESI	44.665326000	10.913667000	Crocetta-San Lazzaro-Modena Est
+Via Benedetto MARCELLO	44.641347800	10.955361200	Crocetta-San Lazzaro-Modena Est
+Via Irma MARCHIANI	44.640473500	10.964497600	Crocetta-San Lazzaro-Modena Est
+Via Guglielmo MARCONI	44.640199200	10.905598600	San Faustino-Madonnina-Quattroville
+Via Luca MARENZIO	44.644662900	10.942872300	Crocetta-San Lazzaro-Modena Est
+Via MARESCOTTA	44.647484400	10.922107500	Centro Storico
+Via Stefano Giovanni MARIANINI	44.653930100	10.912997800	Centro Storico
+Via Filippo Tommaso MARINETTI	44.624449600	10.904349100	Buon Pastore-Sant'Agnese-San Damaso
+Via Gian Battista MARINO	44.658349700	10.860538900	San Faustino-Madonnina-Quattroville
+Via Gino MARINUZZI	44.630845700	10.970793400	Crocetta-San Lazzaro-Modena Est
+Via Piero MARONCELLI	44.664187100	10.926576500	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe MAROTTA	44.658901300	10.879781700	San Faustino-Madonnina-Quattroville
+Via Carlo MAROZZO	44.643783800	10.912655300	San Faustino-Madonnina-Quattroville
+Via Giovanni MARRADI	44.665058900	10.898411600	San Faustino-Madonnina-Quattroville
+Via MARSALA	44.554936700	10.781815600	Villa Vaccari
+Via Enrico MARTINELLI	44.641659200	10.951828300	Crocetta-San Lazzaro-Modena Est
+Via Simone MARTINI	44.629934700	10.910739000	Buon Pastore-Sant'Agnese-San Damaso
+Strada MARTINIANA	44.604057300	10.868156300	San Faustino-Madonnina-Quattroville
+Via  MARTIRI DI KINDU	44.579629200	10.939831500	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe MARTUCCI	44.627832300	10.975776200	Crocetta-San Lazzaro-Modena Est
+Via MARZABOTTO	44.635564800	10.938266300	Buon Pastore-Sant'Agnese-San Damaso
+Strada MARZAGLIA	44.648304600	10.806457400	San Faustino-Madonnina-Quattroville
+Via Del MASACCIO	44.637760100	10.919077700	Buon Pastore-Sant'Agnese-San Damaso
+Via Pietro MASCAGNI	44.329245500	10.836421900	La Sbrugna
+Via MASCHERELLA	44.642570400	10.928214700	Centro Storico
+Stradello MASETTI	44.711959100	10.906921900	San Faustino-Madonnina-Quattroville
+Via MASONE	44.643938700	10.928933500	Centro Storico
+Stradello MASSA	44.615566400	10.975003800	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe MASSARENTI	44.662245900	10.938023300	Crocetta-San Lazzaro-Modena Est
+Via Fausta MASSOLO	44.625434600	10.892523200	San Faustino-Madonnina-Quattroville
+Viale Piersanti MATTARELLA	44.621593400	10.924445200	Buon Pastore-Sant'Agnese-San Damaso
+Piazza Giacomo MATTEOTTI	44.647725100	10.924663100	Centro Storico
+Via Carlo MATTEUCCI	44.644793500	10.908555500	San Faustino-Madonnina-Quattroville
+Via Giuseppe MAZZETTI	44.625318200	10.894154300	San Faustino-Madonnina-Quattroville
+Piazza Giuseppe MAZZINI	44.646695900	10.927111580	Centro Storico
+Viale Guido MAZZONI	44.653478000	10.934047300	Centro Storico
+Via Della MECCANICA	44.587286200	11.029276700	Luogo Valli
+Viale  MEDAGLIE DORO	44.639036100	10.929377700	Centro Storico
+Stradello MEDICI CAULA	44.625334100	10.936794400	Buon Pastore-Sant'Agnese-San Damaso
+Strada MEDICINA	44.640218000	10.913038100	San Faustino-Madonnina-Quattroville
+Via Marco MELONI	44.629911000	10.915059000	Buon Pastore-Sant'Agnese-San Damaso
+Via Riccardo MELOTTI	44.632760300	10.917930700	Buon Pastore-Sant'Agnese-San Damaso
+Via Gregorio MENDEL	44.631068500	10.898910600	San Faustino-Madonnina-Quattroville
+Viale Ciro MENOTTI	44.646050300	10.936197700	Centro Storico
+Via Saverio MERCADANTE	44.641707000	10.952831200	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe MERCALLI	44.654835000	10.887203100	San Faustino-Madonnina-Quattroville
+Viale Del MERCATO	44.659413700	10.936595500	Crocetta-San Lazzaro-Modena Est
+Via Gherardo MERCATORE	44.630996200	10.897647200	San Faustino-Madonnina-Quattroville
+Via Delle MESSI	44.690808900	10.971556600	Crocetta-San Lazzaro-Modena Est
+Via MESSINA	44.614258500	10.938230700	Buon Pastore-Sant'Agnese-San Damaso
+Via MESTRE	44.633134600	10.924719700	Buon Pastore-Sant'Agnese-San Damaso
+Via Pietro METASTASIO	44.669708300	10.897510700	San Faustino-Madonnina-Quattroville
+Via Antonio MEUCCI	44.643696300	10.911779500	San Faustino-Madonnina-Quattroville
+Via Guido MIGLIOLI	44.659561300	10.943447600	Crocetta-San Lazzaro-Modena Est
+Via Don Lorenzo MILANI	44.571586000	10.856023500	Casa Gatta
+Via MILANO	44.625816500	10.929083100	Buon Pastore-Sant'Agnese-San Damaso
+Via Delle MIMOSE	44.604312600	10.970174100	Buon Pastore-Sant'Agnese-San Damaso
+Via Luciano MINELLI	44.634734300	10.947882300	Buon Pastore-Sant'Agnese-San Damaso
+Strada MINUTARA	44.644685900	10.950388900	Crocetta-San Lazzaro-Modena Est
+Viale Don Giovanni MINZONI	44.633009300	10.922131200	Buon Pastore-Sant'Agnese-San Damaso
+Via Enrico MISLEY	44.647459400	10.934743300	Centro Storico
+Via Amedeo MODIGLIANI	44.630856600	10.912676900	Buon Pastore-Sant'Agnese-San Damaso
+Via MODONELLA	44.647369500	10.929508200	Centro Storico
+Piazzetta Mario MOLINARI	44.647662100	10.927900069	Centro Storico
+Via William MOLINARI	44.686199600	10.917084100	San Faustino-Madonnina-Quattroville
+Viale Francesco Maria MOLZA	44.651614600	10.919293700	Centro Storico
+Via MONACO	44.670069200	10.939413400	Crocetta-San Lazzaro-Modena Est
+Via Don Elio MONARI	44.662482700	10.927440500	Crocetta-San Lazzaro-Modena Est
+Via Del MONASTERO	44.607740000	10.868668600	San Faustino-Madonnina-Quattroville
+Via MONCALIERI	44.626318300	10.945223900	Buon Pastore-Sant'Agnese-San Damaso
+Viale MONCHIO	44.567571400	10.833677100	La Ghiarola
+Via MONDATORA	44.644739900	10.926207300	Centro Storico
+Via  MONDOVI	44.625818600	10.942849300	Buon Pastore-Sant'Agnese-San Damaso
+Via Paolo MONELLI	44.666505000	10.912130100	Crocetta-San Lazzaro-Modena Est
+Via MONFALCONE	44.629155000	10.922537700	Buon Pastore-Sant'Agnese-San Damaso
+Via MONSELICE	44.629950700	10.918383200	Buon Pastore-Sant'Agnese-San Damaso
+Via MONTALCINO	44.613571500	10.933749800	Buon Pastore-Sant'Agnese-San Damaso
+Via Eugenio MONTALE	44.657409000	10.912314900	Centro Storico
+Strada MONTANARA	44.657686700	10.977479700	Crocetta-San Lazzaro-Modena Est
+Via Geminiano MONTANARI	44.630354800	10.941383900	Buon Pastore-Sant'Agnese-San Damaso
+Via MONTE GRAPPA	44.648252800	10.938402300	Centro Storico
+Viale MONTE KOSICA	44.652983000	10.931346100	Centro Storico
+Via MONTE SABOTINO	44.640197800	10.938021100	Buon Pastore-Sant'Agnese-San Damaso
+Via MONTE SANTA GIULIA	44.634529600	10.934690600	Buon Pastore-Sant'Agnese-San Damaso
+Largo MONTECASSINO	44.624813700	10.937688131	Buon Pastore-Sant'Agnese-San Damaso
+Strada MONTECATINI	44.619444600	10.990401800	Buon Pastore-Sant'Agnese-San Damaso
+Stradello ERRI MONTECUCCOLI  ERRI	44.610196900	10.870414000	San Faustino-Madonnina-Quattroville
+Viale Raimondo MONTECUCCOLI	44.653365700	10.926020700	Centro Storico
+Via MONTEVECCHIO	44.648443600	10.925598600	Centro Storico
+Via Claudio MONTEVERDI	44.643546500	10.941991700	Crocetta-San Lazzaro-Modena Est
+Via Vincenzo MONTI	44.659922300	10.886530300	San Faustino-Madonnina-Quattroville
+Via MONVISO	44.655917600	10.949775200	Crocetta-San Lazzaro-Modena Est
+Via MONZA	44.625199600	10.925518800	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio MORANDI	44.647422800	10.946411800	Crocetta-San Lazzaro-Modena Est
+Strada MORANE	44.618242800	10.931569700	Buon Pastore-Sant'Agnese-San Damaso
+Via Elsa MORANTE	44.657998300	10.882076400	San Faustino-Madonnina-Quattroville
+Viale Gaetano MOREALI	44.641462500	10.931486700	Centro Storico
+Via Michele MORELLI	44.627113800	10.948538300	Buon Pastore-Sant'Agnese-San Damaso
+Strada MORELLO	44.713931300	10.913335900	San Faustino-Madonnina-Quattroville
+Via Gian Battista MORGAGNI	44.641298000	10.909026800	San Faustino-Madonnina-Quattroville
+Largo Aldo MORO	44.648309150	10.920084419	Centro Storico
+Via Cardinal Giovanni MORONE	44.649160400	10.923930600	Centro Storico
+Via Samuele MORSE	44.644287100	10.912537900	San Faustino-Madonnina-Quattroville
+Via Enrico MORSELLI	44.647155200	10.938928700	Crocetta-San Lazzaro-Modena Est
+Via MORTARA	44.623787800	10.933310800	Buon Pastore-Sant'Agnese-San Damaso
+Via MOTTA DI LIVENZA	44.628904900	10.919377000	Buon Pastore-Sant'Agnese-San Damaso
+Stradello MULINI NUOVI	44.667606900	10.946826900	Crocetta-San Lazzaro-Modena Est
+Via Pellegrino MUNARI	44.652706200	10.934438500	Centro Storico
+Strada MUNAROLA	44.696747000	10.963136500	Crocetta-San Lazzaro-Modena Est
+Via MURANO	44.631651600	10.919489900	Buon Pastore-Sant'Agnese-San Damaso
+Largo Lodovico Antonio MURATORI	44.648011000	10.922959830	Centro Storico
+Viale Lodovico Antonio MURATORI	44.639701650	10.930835216	Centro Storico
+Via Del MURAZZO	44.656417600	10.910370000	Centro Storico
+Rua MURO	44.645649000	10.921296000	Centro Storico
+Via Giovanni MUZZIOLI	44.650446700	10.934708700	Centro Storico
+Via Dei NARCISI	44.600884600	10.976947800	Buon Pastore-Sant'Agnese-San Damaso
+Via Anacarsi NARDI	44.644858100	10.933528100	Centro Storico
+Via Luigi NASI	44.648093000	10.916668900	Centro Storico
+Stradello NAVA	44.595437100	10.913058100	Buon Pastore-Sant'Agnese-San Damaso
+Via Andrea NAVAGERO	44.674005000	10.899461500	San Faustino-Madonnina-Quattroville
+Strada Del NAVIGLIO	44.666815400	10.944715700	Crocetta-San Lazzaro-Modena Est
+Viale Delle NAZIONI	44.672536500	10.934277400	Crocetta-San Lazzaro-Modena Est
+Via Luigi NEGRELLI	44.654404000	10.887294200	San Faustino-Madonnina-Quattroville
+Via Ada NEGRI	44.661658300	10.888580300	San Faustino-Madonnina-Quattroville
+Via Vittoria NENNI	44.631915300	10.954364100	Buon Pastore-Sant'Agnese-San Damaso
+Tangenziale Pablo NERUDA	44.634981300	10.900443700	San Faustino-Madonnina-Quattroville
+Via NERVI	44.621907300	10.931436600	Buon Pastore-Sant'Agnese-San Damaso
+Via Isacco NEWTON	44.644171900	10.895180000	San Faustino-Madonnina-Quattroville
+Via Dario NICCODEMI	44.653058100	10.916924800	Centro Storico
+Via Francesco NICOLI	44.644946900	10.912164600	San Faustino-Madonnina-Quattroville
+Via Ippolito NIEVO	44.529798200	10.771715300	Villa Vaccari
+Largo Alfredo NOBEL	44.645090500	10.896083600	San Faustino-Madonnina-Quattroville
+Via Leopoldo NOBILI	44.647787100	10.900464300	San Faustino-Madonnina-Quattroville
+Stradello Della NOCE	44.721629400	10.891530800	San Faustino-Madonnina-Quattroville
+Via NONANTOLANA	44.656274600	10.952411100	Crocetta-San Lazzaro-Modena Est
+Via NORVEGIA	44.664860400	10.934134400	Crocetta-San Lazzaro-Modena Est
+Via Alfredo NOTA	44.661259400	10.893564000	San Faustino-Madonnina-Quattroville
+Via Giuseppe NOTARI	44.636719600	10.901461700	San Faustino-Madonnina-Quattroville
+Via NOVARA	44.628282700	10.939207200	Buon Pastore-Sant'Agnese-San Damaso
+Via NUORO	44.621689800	10.943570300	Buon Pastore-Sant'Agnese-San Damaso
+Via NUOVA ESTENSE	44.614283400	10.937070300	Buon Pastore-Sant'Agnese-San Damaso
+Strada NUOVA DI FRETO	44.668770100	10.896674800	San Faustino-Madonnina-Quattroville
+Strada NUOVA DI MARZAGLIA	44.645728200	10.818074900	San Faustino-Madonnina-Quattroville
+Via Guglielmo OBERDAN	44.661951100	10.926242900	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe OBICI	44.640417100	10.918902800	Buon Pastore-Sant'Agnese-San Damaso
+Via ODERZO	44.629045300	10.922146900	Buon Pastore-Sant'Agnese-San Damaso
+Via Fermo OGNIBENE	44.633063400	10.944185400	Buon Pastore-Sant'Agnese-San Damaso
+Via OLANDA	44.674158000	10.935317700	Crocetta-San Lazzaro-Modena Est
+Via Dell'OLMO	44.510760700	10.748477400	Villa Vaccari
+Via OMERO	44.649192200	10.858874300	San Faustino-Madonnina-Quattroville
+Via ONEGLIA	44.632035500	10.935184500	Buon Pastore-Sant'Agnese-San Damaso
+Stradello OPERA PIA BIANCHI	44.605000500	10.874091000	San Faustino-Madonnina-Quattroville
+Via ORAZIO	44.649291100	10.849618100	San Faustino-Madonnina-Quattroville
+Via Dell'ORCHIDEA	44.601649300	10.973504200	Buon Pastore-Sant'Agnese-San Damaso
+Via ORISTANO	44.620175300	10.941263600	Buon Pastore-Sant'Agnese-San Damaso
+Via Ettore ORLANDI	44.638625100	10.950048000	Crocetta-San Lazzaro-Modena Est
+Via Dell'ORSA MINORE	44.599108900	10.928830300	Buon Pastore-Sant'Agnese-San Damaso
+Stradello Degli ORSI	44.620860600	10.851412900	San Faustino-Madonnina-Quattroville
+Via Felice ORSINI	44.650766400	10.895095000	San Faustino-Madonnina-Quattroville
+Via Delle ORTENSIE	44.603970800	10.971484100	Buon Pastore-Sant'Agnese-San Damaso
+Via OSOPPO	44.651589500	10.914133100	Centro Storico
+Piazzetta Delle OVA	44.646210750	10.926658719	Centro Storico
+Viale OVIDIO	44.650436800	10.854933300	San Faustino-Madonnina-Quattroville
+Via Antonio PACCHIONI	44.647784000	10.941944100	Crocetta-San Lazzaro-Modena Est
+Viale Della PACE	44.639328700	10.913774800	Buon Pastore-Sant'Agnese-San Damaso
+Via Giovanni PACINI	44.645431300	10.943449200	Crocetta-San Lazzaro-Modena Est
+Via Antonio PACINOTTI	44.645401200	10.913017700	San Faustino-Madonnina-Quattroville
+Via PADOVA	44.634389300	10.923058300	Buon Pastore-Sant'Agnese-San Damaso
+Via Vittorio PADOVANI	44.642755300	10.905740100	San Faustino-Madonnina-Quattroville
+Stradello PADULI	44.618797200	10.909824400	Buon Pastore-Sant'Agnese-San Damaso
+Via Bartolomeo PAGANELLI	44.657801500	10.919527400	Crocetta-San Lazzaro-Modena Est
+Via Gaspare PAGANI	44.645143700	10.910568600	San Faustino-Madonnina-Quattroville
+Strada PAGANINE	44.591132300	10.949554200	Buon Pastore-Sant'Agnese-San Damaso
+Via Camillo PAGLIANI	44.635644400	10.923899100	Buon Pastore-Sant'Agnese-San Damaso
+Via Cecilia PAINI	44.645082000	10.943258000	Crocetta-San Lazzaro-Modena Est
+Via Giovanni PAISIELLO	44.639693200	10.952251900	Crocetta-San Lazzaro-Modena Est
+Via Jan PALACH	44.659528300	10.968968800	Crocetta-San Lazzaro-Modena Est
+Via PALERMO	44.614723400	10.939248800	Buon Pastore-Sant'Agnese-San Damaso
+Via PALESTRO	44.547055500	10.775490300	Villa Vaccari
+Via Andrea PALLADIO	44.631324900	10.916388800	Buon Pastore-Sant'Agnese-San Damaso
+Via PALLAMAGLIO	44.652224700	10.931912300	Centro Storico
+Via PALLANZA	44.624262400	10.926663300	Buon Pastore-Sant'Agnese-San Damaso
+Via PALMANOVA	44.630194800	10.925437400	Buon Pastore-Sant'Agnese-San Damaso
+Piazzetta Dal PALTADORI	44.652277100	10.928991748	Centro Storico
+Via Alfonso PALTRINIERI	44.664174500	10.927381500	Crocetta-San Lazzaro-Modena Est
+Stradello PANARO	44.630251300	10.984282300	Crocetta-San Lazzaro-Modena Est
+Via Evaristo PANCALDI	44.639162400	10.950306000	Crocetta-San Lazzaro-Modena Est
+Via Francesco PANINI	44.659128500	10.901203300	San Faustino-Madonnina-Quattroville
+Strada PANNI	44.626255700	10.912729800	Buon Pastore-Sant'Agnese-San Damaso
+Via Mario PANNUNZIO	44.645212400	10.845203500	San Faustino-Madonnina-Quattroville
+Via Dante PANTANELLI	44.636184000	10.894112100	San Faustino-Madonnina-Quattroville
+Via Filippo PAOLUCCI	44.657175000	10.917965300	Centro Storico
+Via PAPA GIOVANNI XXIII	44.657086700	10.958957900	Crocetta-San Lazzaro-Modena Est
+Via Ernesto PAPAZZONI	44.644979700	10.935084100	Centro Storico
+Via Agostino PARADISI	44.663952400	10.925380200	Crocetta-San Lazzaro-Modena Est
+Vicolo Del PARCO	44.643388100	10.930879000	Centro Storico
+Via Marcantonio PARENTI	44.660736900	10.922570400	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe PARINI	44.658186000	10.902136400	San Faustino-Madonnina-Quattroville
+Via PARMA	44.621477200	10.910850000	Buon Pastore-Sant'Agnese-San Damaso
+Via Del PARMIGIANINO	44.636082500	10.908446000	San Faustino-Madonnina-Quattroville
+Via Biagio PASCAL	44.644654900	10.914929800	San Faustino-Madonnina-Quattroville
+Via Giovanni PASCOLI	44.664070300	10.922878500	Crocetta-San Lazzaro-Modena Est
+Via Pier Paolo PASOLINI	44.660124600	10.884774200	San Faustino-Madonnina-Quattroville
+Via Luigi PASTEUR	44.642714200	10.894755300	San Faustino-Madonnina-Quattroville
+Via PASTRENGO	44.629139400	10.926230500	Buon Pastore-Sant'Agnese-San Damaso
+Via Cesare PAVESE	44.681097800	10.906831500	San Faustino-Madonnina-Quattroville
+Via PAVIA	44.624188300	10.932329600	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe PEANO	44.642706100	10.890371900	San Faustino-Madonnina-Quattroville
+Via Lino PEDERZOLI	44.639998700	10.969127200	Crocetta-San Lazzaro-Modena Est
+Strada PEDERZONA	44.618301400	10.825300400	San Faustino-Madonnina-Quattroville
+Via Felice PEDRONI	44.657179500	10.898771800	San Faustino-Madonnina-Quattroville
+Via PEGLI	44.629848000	10.936623200	Buon Pastore-Sant'Agnese-San Damaso
+Via Del PELLEGRINO	44.603185400	10.969607200	Buon Pastore-Sant'Agnese-San Damaso
+Via Silvio PELLICO	44.662690900	10.928220700	Crocetta-San Lazzaro-Modena Est
+Via Tino PELLONI	44.625376300	10.918104700	Buon Pastore-Sant'Agnese-San Damaso
+Via PELUSIA	44.641159300	10.941441400	Crocetta-San Lazzaro-Modena Est
+Via Guglielmo PEPE	44.649701400	10.892467300	San Faustino-Madonnina-Quattroville
+Via Antonio PERETTI	44.637654900	10.924025500	Buon Pastore-Sant'Agnese-San Damaso
+Via Della PERGOLA	44.685436900	10.894296100	San Faustino-Madonnina-Quattroville
+Via Gian Battista PERGOLESI	44.642546500	10.944128500	Crocetta-San Lazzaro-Modena Est
+Via Jacopo PERI	44.629040000	10.975422100	Crocetta-San Lazzaro-Modena Est
+Via Giorgio PERLASCA	44.630031500	10.960076600	Buon Pastore-Sant'Agnese-San Damaso
+Via Lorenzo PEROSI	44.637511900	10.954228900	Crocetta-San Lazzaro-Modena Est
+Parco Sandro PERTINI	44.642581900	10.930266106	Centro Storico
+Via  PERU	44.662682700	10.962234800	Crocetta-San Lazzaro-Modena Est
+Via Del PERUGINO	44.631776400	10.905878000	Buon Pastore-Sant'Agnese-San Damaso
+Via PESCHIERA	44.635157200	10.924409400	Buon Pastore-Sant'Agnese-San Damaso
+Via PESCIA	44.613096400	10.935386800	Buon Pastore-Sant'Agnese-San Damaso
+Via Francesco PETRARCA	44.663905900	10.923502100	Crocetta-San Lazzaro-Modena Est
+Via PIACENZA	44.622677200	10.912607300	Buon Pastore-Sant'Agnese-San Damaso
+Via PIAVE	44.650211800	10.936533700	Centro Storico
+Via Alfonso PIAZZA	44.652821000	10.904157300	San Faustino-Madonnina-Quattroville
+Via Armando PICA	44.625539500	10.960703200	Buon Pastore-Sant'Agnese-San Damaso
+Via Eugenio Enzo PICCININI	44.624342200	10.909512600	Buon Pastore-Sant'Agnese-San Damaso
+Via PIENZA	44.611628000	10.934530100	Buon Pastore-Sant'Agnese-San Damaso
+Via Della PIETRA	44.622497400	10.943232600	Buon Pastore-Sant'Agnese-San Damaso
+Via PIETRA LIGURE	44.627686300	10.935059200	Buon Pastore-Sant'Agnese-San Damaso
+Via PIETRASANTA	44.620104000	10.931737800	Buon Pastore-Sant'Agnese-San Damaso
+Via Dorando PIETRI	44.640614100	10.915871500	San Faustino-Madonnina-Quattroville
+Via PIEVE DI CADORE	44.630067800	10.924921700	Buon Pastore-Sant'Agnese-San Damaso
+Via Francesco Antonio PIGAFETTA	44.656871500	10.892369200	San Faustino-Madonnina-Quattroville
+Via Antonio PIGNEDOLI	44.646520900	10.885970700	San Faustino-Madonnina-Quattroville
+Via Ippolito PINCETTI	44.638034000	10.938759400	Buon Pastore-Sant'Agnese-San Damaso
+Via Ippolito PINDEMONTE	44.660254500	10.898332500	San Faustino-Madonnina-Quattroville
+Via PINEROLO	44.625999200	10.946589900	Buon Pastore-Sant'Agnese-San Damaso
+Rua PIOPPA	44.644743700	10.929924800	Centro Storico
+Stradello PIRADELLO	44.631680900	10.883830900	San Faustino-Madonnina-Quattroville
+Tangenziale Luigi PIRANDELLO	44.650015600	10.873545700	San Faustino-Madonnina-Quattroville
+Via Giovan Battista PIRANESI	44.635873500	10.917105600	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo PISACANE	44.656358100	10.944253200	Crocetta-San Lazzaro-Modena Est
+Via Nicola PISANO	44.633276600	10.905856300	Buon Pastore-Sant'Agnese-San Damaso
+Via PISTOIA	44.616463000	10.925835900	Buon Pastore-Sant'Agnese-San Damaso
+Via PITAGORA	44.647009700	10.901469100	San Faustino-Madonnina-Quattroville
+Via Caio Secondo PLINIO	44.641705100	10.908635700	San Faustino-Madonnina-Quattroville
+Viale Emilio PO	44.649993600	10.899677300	San Faustino-Madonnina-Quattroville
+Via PODGORA	44.653876800	10.917412800	Centro Storico
+Via Giuseppe POLACCI	44.640921300	10.807400500	San Faustino-Madonnina-Quattroville
+Via Luigi POLETTI	44.649429700	10.936390100	Centro Storico
+Stradello POLEZZE	44.635792800	10.865473100	San Faustino-Madonnina-Quattroville
+Via Marco POLO	44.655528600	10.899006900	San Faustino-Madonnina-Quattroville
+Via POLONIA	44.666174900	10.931018300	Crocetta-San Lazzaro-Modena Est
+Piazza Della POMPOSA	44.649190700	10.924138370	Centro Storico
+Strada POMPOSIANA	44.639842100	10.839160000	San Faustino-Madonnina-Quattroville
+Via Amilcare PONCHIELLI	44.638120200	10.952784800	Crocetta-San Lazzaro-Modena Est
+Stradello PONTE BASSO	44.702478600	10.949164200	Crocetta-San Lazzaro-Modena Est
+Stradello PONTE DI FERRO	44.672526200	10.919431200	Crocetta-San Lazzaro-Modena Est
+Stradello PONTE GHIOTTO	44.586573000	10.932468000	Buon Pastore-Sant'Agnese-San Damaso
+Strada PONTE NUOVO	44.702963500	10.952230100	Crocetta-San Lazzaro-Modena Est
+Via PORDENONE	44.628158200	10.917497600	Buon Pastore-Sant'Agnese-San Damaso
+Via Nicola PORPORA	44.630239300	10.974414300	Crocetta-San Lazzaro-Modena Est
+Via Erminio PORTA	44.632309500	10.922486300	Buon Pastore-Sant'Agnese-San Damaso
+Largo  PORTA SANTAGOSTINO	44.648501900	10.921245700	Centro Storico
+Stradello PORTILE	44.577642500	10.942654900	Buon Pastore-Sant'Agnese-San Damaso
+Via PORTOFINO	44.629978500	10.935538000	Buon Pastore-Sant'Agnese-San Damaso
+Via PORTOGALLO	44.666018000	10.943079900	Crocetta-San Lazzaro-Modena Est
+Via PORTOGRUARO	44.627177400	10.925130800	Buon Pastore-Sant'Agnese-San Damaso
+Via PORTORICO	44.662487700	10.962884100	Crocetta-San Lazzaro-Modena Est
+Via PORTOVENERE	44.631943200	10.934245000	Buon Pastore-Sant'Agnese-San Damaso
+Via Pompilio POZZETTI	44.640595400	10.919339300	Buon Pastore-Sant'Agnese-San Damaso
+Largo Del POZZO	44.636483500	10.942095700	Buon Pastore-Sant'Agnese-San Damaso
+Via Del POZZO	44.637412000	10.941054500	Buon Pastore-Sant'Agnese-San Damaso
+Stradello POZZO PONTUTO	44.664245500	10.858545000	San Faustino-Madonnina-Quattroville
+Via Francesco PRAMPOLINI	44.643165500	10.932873500	Centro Storico
+Via Renato PRATI	44.650068700	10.903797600	San Faustino-Madonnina-Quattroville
+Via Giulio PRETI	44.631015200	10.917222900	Buon Pastore-Sant'Agnese-San Damaso
+Via PRETI PARTIGIANI	44.646280700	10.843796700	San Faustino-Madonnina-Quattroville
+Via Della PRIMULA	44.588208600	10.970923900	Buon Pastore-Sant'Agnese-San Damaso
+Via PROVINCIALE OVEST	44.666280800	10.986648700	Crocetta-San Lazzaro-Modena Est
+Largo Alberto Mario PUCCI	44.657327100	10.932164300	Crocetta-San Lazzaro-Modena Est
+Via Giacomo PUCCINI	44.645535200	10.935724900	Centro Storico
+Via Alessandro PUGLIA	44.641623100	10.913197900	San Faustino-Madonnina-Quattroville
+Via Luigi PULCI	44.661986200	10.899094400	San Faustino-Madonnina-Quattroville
+Viale QUATTRO NOVEMBRE	44.655073300	10.916950000	Centro Storico
+Via Della QUERCIA	44.685830600	10.965984200	Crocetta-San Lazzaro-Modena Est
+Tangenziale Yitzhak RABIN	44.656061400	10.970649700	Crocetta-San Lazzaro-Modena Est
+Strada Del RACCORDO	44.649801000	10.803056900	San Faustino-Madonnina-Quattroville
+Via Francesco RAIBOLINI	44.637062900	10.916493500	Buon Pastore-Sant'Agnese-San Damaso
+Via Elia RAINUSSO	44.648529600	10.914715400	San Faustino-Madonnina-Quattroville
+Via Bernardino RAMAZZINI	44.649347900	10.922850200	Centro Storico
+Via Sergio RAMELLI	44.659656700	10.920728300	Crocetta-San Lazzaro-Modena Est
+Strada RAMETTO	44.648907600	10.841035400	San Faustino-Madonnina-Quattroville
+Via Guido RANGONI	44.646336800	10.914702700	Centro Storico
+Via RAPALLO	44.630148000	10.936927800	Buon Pastore-Sant'Agnese-San Damaso
+Via Maurice RAVEL	44.641042200	10.958118500	Crocetta-San Lazzaro-Modena Est
+Via RAVENNA	44.624138400	10.912688200	Buon Pastore-Sant'Agnese-San Damaso
+Via Cesare RAZZABONI	44.660115400	10.913176500	Crocetta-San Lazzaro-Modena Est
+Via Filippo RE	44.632082900	10.897845500	San Faustino-Madonnina-Quattroville
+Piazzale REDECOCCA	44.643695100	10.923223621	Centro Storico
+Via Renzo REGGIANI	44.652356200	10.804182600	San Faustino-Madonnina-Quattroville
+Via Giulio REGGIANINI	44.647995200	10.934028900	Centro Storico
+Via REGGIO EMILIA	44.625291500	10.913392800	Buon Pastore-Sant'Agnese-San Damaso
+Viale Virginia REITER	44.644009300	10.932010400	Centro Storico
+Via Guido RENI	44.634058500	10.912071300	Buon Pastore-Sant'Agnese-San Damaso
+Parco Della REPUBBLICA	44.625838000	10.921676599	Buon Pastore-Sant'Agnese-San Damaso
+Via REPUBBLICA VAL TARO	44.658152300	10.957136400	Crocetta-San Lazzaro-Modena Est
+Parco Della RESISTENZA	44.628446050	10.931842625	Buon Pastore-Sant'Agnese-San Damaso
+Viale Della RESISTENZA	44.639419500	10.968165000	Crocetta-San Lazzaro-Modena Est
+Via Ottorino RESPIGHI	44.633317300	10.964486000	Crocetta-San Lazzaro-Modena Est
+Via Giuseppe RIBERA	44.629980300	10.904439400	Buon Pastore-Sant'Agnese-San Damaso
+Via Pietro RICCARDI	44.628194000	10.942825400	Buon Pastore-Sant'Agnese-San Damaso
+Via Lodovico RICCI	44.649396000	10.934496200	Centro Storico
+Via Domenico RICCIO	44.632604500	10.910419000	Buon Pastore-Sant'Agnese-San Damaso
+Via RICCIONE	44.621253500	10.918558600	Buon Pastore-Sant'Agnese-San Damaso
+Piazza  Annibale RICCO	44.638669100	10.934099604	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi RICCOBONI	44.643722000	10.919276600	Centro Storico
+Via Carlo RIDOLFI	44.635715100	10.917827100	Buon Pastore-Sant'Agnese-San Damaso
+Via RIETI	44.621853700	10.939899400	Buon Pastore-Sant'Agnese-San Damaso
+Via Augusto RIGHI	44.646692800	10.912337800	San Faustino-Madonnina-Quattroville
+Viale Delle RIMEMBRANZE	44.642067600	10.923357800	Centro Storico
+Via RIMINI	44.624376500	10.913386000	Buon Pastore-Sant'Agnese-San Damaso
+Via Tommaso RINALDI	44.653279400	10.900643100	San Faustino-Madonnina-Quattroville
+Via Francesco RISMONDO	44.647983900	10.926301800	Centro Storico
+Stradello RIVA	44.615869600	10.865368200	San Faustino-Madonnina-Quattroville
+Via RIVA DEL GARDA	44.634739000	10.922472200	Buon Pastore-Sant'Agnese-San Damaso
+Via Placido RIZZOTTO	44.640171200	10.899945400	San Faustino-Madonnina-Quattroville
+Via Ercole ROBERTI	44.637062900	10.916493500	Buon Pastore-Sant'Agnese-San Damaso
+Via Domenico ROCOCCIOLO	44.643100800	10.910931500	San Faustino-Madonnina-Quattroville
+Piazza ROMA	44.648068550	10.929177701	Centro Storico
+Via Giovanni Francesco ROMANELLI	44.631805700	10.919092500	Buon Pastore-Sant'Agnese-San Damaso
+Via ROMANIA	44.667779300	10.937387400	Crocetta-San Lazzaro-Modena Est
+Stradello ROMANO	44.632479400	10.980337700	Crocetta-San Lazzaro-Modena Est
+Piazza Luigi ROMUALDI	44.604143200	10.968781500	Buon Pastore-Sant'Agnese-San Damaso
+Via Emilio RONCAGLIA	44.639341100	10.931555600	Buon Pastore-Sant'Agnese-San Damaso
+Stradello RONCATI	44.685768600	10.879071900	San Faustino-Madonnina-Quattroville
+Via Alfio RONCHETTI	44.657149900	10.900968400	San Faustino-Madonnina-Quattroville
+Via Geminiano RONDELLI	44.644942900	10.888766000	San Faustino-Madonnina-Quattroville
+Via Cesare ROSA	44.639482200	10.937145400	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio ROSMINI	44.654392300	10.874671000	San Faustino-Madonnina-Quattroville
+Via Gioacchino ROSSINI	44.646180700	10.944084600	Crocetta-San Lazzaro-Modena Est
+Stradello ROVATTI	44.660447300	10.948963500	Crocetta-San Lazzaro-Modena Est
+Via ROVIGO	44.632665800	10.920521400	Buon Pastore-Sant'Agnese-San Damaso
+Via Paolo RUFFINI	44.656003400	10.913498800	Centro Storico
+Via RUGGERA	44.645389600	10.922459100	Centro Storico
+Via Franco RUSSI	44.635688500	10.913055500	Buon Pastore-Sant'Agnese-San Damaso
+Via Brunello SABATIN	44.683686200	10.894292100	San Faustino-Madonnina-Quattroville
+Via Giovanni SABBATINI	44.640466400	10.933437700	Buon Pastore-Sant'Agnese-San Damaso
+Stradello SACERDOTI	44.665719200	10.951800900	Crocetta-San Lazzaro-Modena Est
+Via SACILE	44.628426000	10.919510100	Buon Pastore-Sant'Agnese-San Damaso
+Via Jacopo SADOLETO	44.639209700	10.927048600	Centro Storico
+Via Aurelio SAFFI	44.632290700	10.953462500	Buon Pastore-Sant'Agnese-San Damaso
+Viale Del SAGITTARIO	44.632017400	10.894529100	San Faustino-Madonnina-Quattroville
+Stradello SALA	44.607675000	10.999986500	Buon Pastore-Sant'Agnese-San Damaso
+Via Emilio SALGARI	44.658118800	10.888727600	San Faustino-Madonnina-Quattroville
+Via Del SALICE	44.809544800	10.913345600	Cibeno Pile
+Strada Di SALICETO BUZZALINO	44.689275300	10.874549700	San Faustino-Madonnina-Quattroville
+Strada SALICETO PANARO	44.638504500	10.947004700	Crocetta-San Lazzaro-Modena Est
+Via Augusto SALIMBENI	44.647051400	10.916170900	Centro Storico
+Via Crispo Gaio SALLUSTIO	44.653442500	10.877808800	San Faustino-Madonnina-Quattroville
+Via Marianna SALTINI	44.798542600	10.882908200	Cibeno Pile
+Via Don Zeno SALTINI	44.652700100	10.888241700	San Faustino-Madonnina-Quattroville
+Via SALUZZO	44.626468100	10.945404600	Buon Pastore-Sant'Agnese-San Damaso
+Via Gaetano SALVEMINI	44.654233300	10.880893800	San Faustino-Madonnina-Quattroville
+Via Fratelli SALVIOLI	44.635535900	10.928057700	Buon Pastore-Sant'Agnese-San Damaso
+Stradello SAN BARTOLOMEO	44.697233200	10.921795500	San Faustino-Madonnina-Quattroville
+Strada SAN CATALDO	44.656712400	10.908910800	Centro Storico
+Strada SAN CLEMENTE	44.702057300	10.991160800	Crocetta-San Lazzaro-Modena Est
+Via SAN CRISTOFORO	44.644487800	10.927597800	Centro Storico
+Via SAN DAMASO	44.604009200	10.968694900	Buon Pastore-Sant'Agnese-San Damaso
+Piazza SAN DOMENICO	44.648606300	10.928033100	Centro Storico
+Via  SAN DONA DEL PIAVE	44.628856800	10.923841800	Buon Pastore-Sant'Agnese-San Damaso
+Strada SAN DONNINO	44.636568200	10.842078700	San Faustino-Madonnina-Quattroville
+Strada SAN FAUSTINO	44.645098900	10.906253700	San Faustino-Madonnina-Quattroville
+Largo SAN GIACOMO	44.644626550	10.922199895	Centro Storico
+Largo SAN GIORGIO	44.647600050	10.928454983	Centro Storico
+Via SAN GIOVANNI BOSCO	44.643365500	10.938599000	Crocetta-San Lazzaro-Modena Est
+Via SAN GIOVANNI DEL CANTONE	44.646776700	10.932705500	Centro Storico
+Stradello SAN GIULIANO	44.622262000	10.906369900	Buon Pastore-Sant'Agnese-San Damaso
+Largo SAN LEONARDO MURIALDO	44.645134300	10.939991100	Crocetta-San Lazzaro-Modena Est
+Stradello SAN LORENZO	44.582393500	10.961720200	Buon Pastore-Sant'Agnese-San Damaso
+Stradello SAN MARONE	44.624829900	10.889894800	San Faustino-Madonnina-Quattroville
+Via SAN MARTINO	44.545241500	10.779080300	Villa Vaccari
+Stradello SAN MATTEO	44.691064500	10.952775100	Crocetta-San Lazzaro-Modena Est
+Via SAN MICHELE	44.523555300	10.767311300	Villa Vaccari
+Via SAN PANCRAZIO	44.672817500	10.899268300	San Faustino-Madonnina-Quattroville
+Via SAN REMO	44.630235100	10.937970500	Buon Pastore-Sant'Agnese-San Damaso
+Via SAN SALVATORE	44.645017400	10.923637500	Centro Storico
+Via Giuseppe SANARELLI	44.637637400	10.898944400	San Faustino-Madonnina-Quattroville
+Strada SANTA CATERINA	44.647830800	10.958992100	Crocetta-San Lazzaro-Modena Est
+Strada SANTA LIBERATA	44.655035200	10.843867200	San Faustino-Madonnina-Quattroville
+Strada SANTA LUCIA	44.564885800	10.935699900	Buon Pastore-Sant'Agnese-San Damaso
+Via SANTA MARGHERITA	44.646886000	10.929566800	Centro Storico
+Stradello SANTA MARTA	44.627892000	10.859809800	San Faustino-Madonnina-Quattroville
+Via  SANTAGATA	44.649080100	10.926308200	Centro Storico
+Via  SANTAGOSTINO	44.648242400	10.921826400	Centro Storico
+Strada  SANTANNA	44.668924700	10.916472700	Crocetta-San Lazzaro-Modena Est
+Largo  SANTEUFEMIA	44.646900050	10.924108502	Centro Storico
+Via  SANTEUFEMIA	44.646651900	10.924562900	Centro Storico
+Via  SANTHIA	44.627801200	10.943547500	Buon Pastore-Sant'Agnese-San Damaso
+Via Venceslao SANTI	44.656884300	10.916926500	Centro Storico
+Via  SANTISSIMA TRINITA	44.643843600	10.926744400	Centro Storico
+Strada  SANTONOFRIO	44.686497200	10.894983000	San Faustino-Madonnina-Quattroville
+Via  SANTORSOLA	44.650453800	10.930319600	Centro Storico
+Via Giuseppe SARAGAT	44.639187000	10.900142400	San Faustino-Madonnina-Quattroville
+Via SARAGOZZA	44.643262300	10.926601700	Centro Storico
+Via SARZANA	44.619509700	10.931527700	Buon Pastore-Sant'Agnese-San Damaso
+Via SASSARI	44.621710900	10.941551700	Buon Pastore-Sant'Agnese-San Damaso
+Via Panfilo SASSI	44.635715100	10.917827100	Buon Pastore-Sant'Agnese-San Damaso
+Via Nazario SAURO	44.576716700	10.904611400	Ca' Bortolani
+Via Giuseppe Maria SAVANI	44.636013200	10.922219500	Buon Pastore-Sant'Agnese-San Damaso
+Via Tito SAVELLI	44.637493900	10.935028500	Buon Pastore-Sant'Agnese-San Damaso
+Via SAVONA	44.632730800	10.938015200	Buon Pastore-Sant'Agnese-San Damaso
+Via SAVONIERO	44.633601800	10.935543000	Buon Pastore-Sant'Agnese-San Damaso
+Via Giovanni Antonio SCACCIERA	44.653473800	10.902611100	San Faustino-Madonnina-Quattroville
+Via Sergio SCAGLIETTI	44.651062800	10.939463300	Centro Storico
+Via Giovanni Battista SCANAROLI	44.638468800	10.939145600	Buon Pastore-Sant'Agnese-San Damaso
+Via Ludovico SCAPINELLI	44.636172400	10.924594800	Buon Pastore-Sant'Agnese-San Damaso
+Via Degli SCARLATTI	44.633877900	10.967007700	Crocetta-San Lazzaro-Modena Est
+Via Antonio SCARPA	44.643790300	10.927817100	Centro Storico
+Strada SCARTAZZA	44.604777300	10.971389900	Buon Pastore-Sant'Agnese-San Damaso
+Stradello SCARTAZZETTA	44.599800200	10.974095800	Buon Pastore-Sant'Agnese-San Damaso
+Via Bartolomeo SCHEDONI	44.640037900	10.931925800	Centro Storico
+Via SCHIO	44.629546900	10.917076200	Buon Pastore-Sant'Agnese-San Damaso
+Strada Degli SCHIOCCHI	44.638626600	10.900413900	San Faustino-Madonnina-Quattroville
+Via Leonardo SCIASCIA	44.659026100	10.883923100	San Faustino-Madonnina-Quattroville
+Via Della SCIENZA	44.639498300	10.974165600	Crocetta-San Lazzaro-Modena Est
+Via SCUDARI	44.645501300	10.926433800	Centro Storico
+Stradello SCUOLA GANACETO	44.694000900	10.886873200	San Faustino-Madonnina-Quattroville
+Stradello SECCHIA	44.679688200	10.925447300	San Faustino-Madonnina-Quattroville
+Viottolo SECCHIA	44.679225300	10.859579700	Ca' Polacci
+Via Giovanni SEGANTINI	44.635846800	10.913570500	Buon Pastore-Sant'Agnese-San Damaso
+Via Jacopo SEGHIZZI	44.640121900	10.916808500	San Faustino-Madonnina-Quattroville
+Via Quintino SELLA	44.655632400	10.945384000	Crocetta-San Lazzaro-Modena Est
+Via Francesco SELMI	44.642092500	10.923768200	Centro Storico
+Stradello SENNI	44.599254900	10.903863600	Buon Pastore-Sant'Agnese-San Damaso
+Via Serafino SERAFINI	44.642208100	10.909017900	San Faustino-Madonnina-Quattroville
+Via Giovanni SERRA	44.645157400	10.885010200	San Faustino-Madonnina-Quattroville
+Via Roberto SERRACCHIOLI	44.630670300	10.947438500	Buon Pastore-Sant'Agnese-San Damaso
+Piazzetta Dei SERVI	44.644802700	10.924390600	Centro Storico
+Via SERVI	44.644526500	10.924464700	Centro Storico
+Via SESTRI LEVANTE	44.628857400	10.935510200	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi SETTEMBRINI	44.605451600	10.866394400	San Faustino-Madonnina-Quattroville
+Via Adamo e Agostino SETTI	44.646828500	10.917353600	Centro Storico
+Piazzale Fulvio SETTI	44.659289450	10.910475567	San Faustino-Madonnina-Quattroville
+Via SGARZERIA	44.650205000	10.927523700	Centro Storico
+Via Jean SIBELIUS	44.632883900	10.967113100	Crocetta-San Lazzaro-Modena Est
+Via SIENA	44.618168100	10.926928700	Buon Pastore-Sant'Agnese-San Damaso
+Via Dei SIGHICELLI	44.631677700	10.966230400	Crocetta-San Lazzaro-Modena Est
+Via Luca SIGNORELLI	44.625397700	10.906510800	Buon Pastore-Sant'Agnese-San Damaso
+Via Carlo SIGONIO	44.639359100	10.924889900	Centro Storico
+Via Pietro SILIGARDI	44.637054300	10.922730300	Buon Pastore-Sant'Agnese-San Damaso
+Via Gian Carlo SILINGARDI	44.613523000	10.917297700	Buon Pastore-Sant'Agnese-San Damaso
+Via Ignazio SILONE	44.656175100	10.891282600	San Faustino-Madonnina-Quattroville
+Via Giuseppe SILVATI	44.626767500	10.950838800	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio SIMONAZZI	44.629535500	10.913055500	Buon Pastore-Sant'Agnese-San Damaso
+Via Ascanio SOBRERO	44.640853100	10.891622400	San Faustino-Madonnina-Quattroville
+Via Giuseppe SOLI	44.650974900	10.936383200	Centro Storico
+Via Bartolomeo SOLIANI	44.645324100	10.918052500	Centro Storico
+Via Cesare SOLIERI	44.640070800	10.922254000	Centro Storico
+Via SOMALIA	44.669629200	10.934393500	Crocetta-San Lazzaro-Modena Est
+Stradello SORATORE	44.658351000	10.930752000	Crocetta-San Lazzaro-Modena Est
+Via Tommaso SORBELLI	44.666148000	10.911794300	Crocetta-San Lazzaro-Modena Est
+Stradello SOTTOPASSAGGIO	44.641567500	10.980831600	Crocetta-San Lazzaro-Modena Est
+Via Giovan Battista SPACCINI	44.654345700	10.935358100	Crocetta-San Lazzaro-Modena Est
+Via Giovanni SPAGGIARI	44.685717000	10.895759500	San Faustino-Madonnina-Quattroville
+Via SPAGNA	44.665002100	10.931468100	Crocetta-San Lazzaro-Modena Est
+Piazzetta Bruno SPAGNOLI	44.587534150	10.947624198	Buon Pastore-Sant'Agnese-San Damaso
+Via Lazzaro SPALLANZANI	44.642424700	10.913750900	San Faustino-Madonnina-Quattroville
+Via Tito SPERI	44.633962100	10.953294100	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi SPINELLI	44.629225000	10.921530800	Buon Pastore-Sant'Agnese-San Damaso
+Via Gaspare SPONTINI	44.644819500	10.942532200	Crocetta-San Lazzaro-Modena Est
+Viale Dello SPORT	44.644798600	10.958464400	Crocetta-San Lazzaro-Modena Est
+Via SPOTORNO	44.629525400	10.937256800	Buon Pastore-Sant'Agnese-San Damaso
+Vicolo SQUALLORE	44.647100600	10.927806800	Centro Storico
+Via STAFFETTE PARTIGIANE	44.666387600	10.925803100	Crocetta-San Lazzaro-Modena Est
+Via Gaspara STAMPA	44.663180100	10.896099400	San Faustino-Madonnina-Quattroville
+Via Vittorio STANGUELLINI	44.650926800	10.938249300	Centro Storico
+Stradello STAZIONE	44.621768400	10.897876900	San Faustino-Madonnina-Quattroville
+Via STELLA	44.644799900	10.922061800	Centro Storico
+Via STELVIO	44.658881900	10.948918000	Crocetta-San Lazzaro-Modena Est
+Via Enrico STENDHAL	44.660640100	10.895609900	San Faustino-Madonnina-Quattroville
+Via Edoardo STONE	44.645063100	10.916875100	Centro Storico
+Via Antonio STOPPANI	44.645741400	10.897598700	San Faustino-Madonnina-Quattroville
+Viale Gaetano STORCHI	44.654381400	10.915073600	Centro Storico
+Strada STRADELLA	44.617006000	10.889134000	San Faustino-Madonnina-Quattroville
+Via Antonio STRADIVARI	44.634092600	10.966384200	Crocetta-San Lazzaro-Modena Est
+Via Giovanni STRAUSS	44.629835600	10.970532200	Crocetta-San Lazzaro-Modena Est
+Via STRESA	44.627026500	10.944989800	Buon Pastore-Sant'Agnese-San Damaso
+Via Francesco STRINGA	44.643768800	10.910353600	San Faustino-Madonnina-Quattroville
+Via Enrico STUFLER	44.639038200	10.937991600	Buon Pastore-Sant'Agnese-San Damaso
+Via De' SUDENTI	44.648925400	10.894957700	San Faustino-Madonnina-Quattroville
+Via SUMATRA	44.687967300	10.963008100	Crocetta-San Lazzaro-Modena Est
+Via Delle SUORE	44.661661600	10.921950900	Crocetta-San Lazzaro-Modena Est
+Via SUSANO	44.632929700	10.938777900	Buon Pastore-Sant'Agnese-San Damaso
+Via SVEZIA	44.664026500	10.933328400	Crocetta-San Lazzaro-Modena Est
+Via SVIZZERA	44.664306300	10.932794800	Crocetta-San Lazzaro-Modena Est
+Via Walter TABACCHI	44.656101700	10.902924700	San Faustino-Madonnina-Quattroville
+Via Luigi TABBONI	44.642672100	10.930996600	Centro Storico
+Via Pietro TACCHINI	44.638726600	10.933374300	Buon Pastore-Sant'Agnese-San Damaso
+Via TACITO	44.648531100	10.858039200	San Faustino-Madonnina-Quattroville
+Via TAGGIA	44.627925400	10.935082000	Buon Pastore-Sant'Agnese-San Damaso
+Stradello TAGLIATI	44.671131700	10.956502000	Crocetta-San Lazzaro-Modena Est
+Via Agostino TAGLIAZUCCHI	44.645808700	10.935071100	Centro Storico
+Via Fortunato TAMBURINI	44.636696000	10.919419200	Centro Storico
+Stradello TAMPELLINI	44.604262900	10.838362100	San Faustino-Madonnina-Quattroville
+Via De' TARASCHI	44.637217700	10.905710400	San Faustino-Madonnina-Quattroville
+Via TARCENTO	44.628470000	10.921673400	Buon Pastore-Sant'Agnese-San Damaso
+Via Vincenzo TARDINI	44.659227900	10.892989300	San Faustino-Madonnina-Quattroville
+Via TARQUINIA	44.622002900	10.939159800	Buon Pastore-Sant'Agnese-San Damaso
+Via Girolamo TARTAGLIONE	44.688171900	10.918199000	San Faustino-Madonnina-Quattroville
+Via Torquato TASSO	44.663285300	10.921802000	Crocetta-San Lazzaro-Modena Est
+Viale Alessandro TASSONI	44.643058200	10.918978400	Centro Storico
+Via Don Enrico TAZZOLI	44.630396500	10.945515300	Buon Pastore-Sant'Agnese-San Damaso
+Via Del TEATRO	44.646730400	10.929887500	Centro Storico
+Via Della TECNICA	44.545903900	11.058344600	San Paolo
+Via Ferruccio TEGLIO	44.658191200	10.941036600	Crocetta-San Lazzaro-Modena Est
+Via Bernardino TELESIO	44.658503500	10.900576800	San Faustino-Madonnina-Quattroville
+Via Luigi TENCO	44.661702600	10.897136900	San Faustino-Madonnina-Quattroville
+Via Cesare TERRANOVA	44.622714700	10.925253000	Buon Pastore-Sant'Agnese-San Damaso
+Via Fulvio TESTI	44.644425200	10.917986800	Centro Storico
+Stradello TIEPIDO	44.605803300	10.966702700	Buon Pastore-Sant'Agnese-San Damaso
+Via TIGNALE DEL GARDA	44.620829300	10.934739400	Buon Pastore-Sant'Agnese-San Damaso
+Via Del TINTORETTO	44.639154900	10.908211700	San Faustino-Madonnina-Quattroville
+Via Dei TINTORI	44.725216200	11.002903800	Valle
+Via Dei TIPOGRAFI	44.635116200	10.978013200	Crocetta-San Lazzaro-Modena Est
+Via Gerolamo TIRABOSCHI	44.640082000	10.928755200	Centro Storico
+Via Del TIRASSEGNO	44.661426900	10.914216300	Crocetta-San Lazzaro-Modena Est
+Via Umberto TIRELLI	44.628421500	10.911821700	Buon Pastore-Sant'Agnese-San Damaso
+Via TIZIANO VECELLIO	44.636910800	10.908197700	San Faustino-Madonnina-Quattroville
+Via Walter TOBAGI	44.618763300	10.926670600	Buon Pastore-Sant'Agnese-San Damaso
+Via TOLMEZZO	44.630104000	10.924313100	Buon Pastore-Sant'Agnese-San Damaso
+Via TOLMINO	44.626833400	10.918952500	Buon Pastore-Sant'Agnese-San Damaso
+Via Claudio TOLOMEO	44.645274600	10.902838900	San Faustino-Madonnina-Quattroville
+Via TOMASO DA MODENA	44.638962400	10.917395900	San Faustino-Madonnina-Quattroville
+Stradello TONI	44.678254100	10.963241000	Crocetta-San Lazzaro-Modena Est
+Via Umberto TONINI	44.631742600	10.873186400	San Faustino-Madonnina-Quattroville
+Via Giuseppe TONIOLO	44.658652600	10.938150500	Crocetta-San Lazzaro-Modena Est
+Via TORINO	44.628098500	10.937839400	Buon Pastore-Sant'Agnese-San Damaso
+Vicolo Dei TORNEI	44.644095200	10.928628500	Centro Storico
+Via Dei TORNITORI	44.634837500	10.974547800	Crocetta-San Lazzaro-Modena Est
+Largo Dei TORRAZZI	44.658505700	10.961038600	Crocetta-San Lazzaro-Modena Est
+Via Dei TORRAZZI	44.659358800	10.962322200	Crocetta-San Lazzaro-Modena Est
+Piazza Della TORRE	44.646466050	10.926091229	Centro Storico
+Via TORRE	44.207364000	10.796071400	Il Gobbo
+Strada TORRICELLA	44.679799100	10.968349500	Crocetta-San Lazzaro-Modena Est
+Piazzale Francesco TORTI	44.643875300	10.923970100	Centro Storico
+Via TORTONA	44.627169100	10.946250400	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe TOSATTI ERUDITI	44.631497100	10.867026000	San Faustino-Madonnina-Quattroville
+Via TOSCANA	44.618124700	10.931557600	Buon Pastore-Sant'Agnese-San Damaso
+Via Arturo TOSCANINI	44.639030100	10.956544900	Crocetta-San Lazzaro-Modena Est
+Via Paolo TOSTI	44.632658400	10.967709700	Crocetta-San Lazzaro-Modena Est
+Via Enrico TOTI	44.633595600	10.951590500	Buon Pastore-Sant'Agnese-San Damaso
+Largo Dei TRAERI	44.633908100	10.871617100	San Faustino-Madonnina-Quattroville
+Via Dei TRAERI	44.633990100	10.868292200	San Faustino-Madonnina-Quattroville
+Via Giuseppe TRAMONTINI	44.643988200	10.887467200	San Faustino-Madonnina-Quattroville
+Via TRAPANI	44.588043500	10.948472300	Buon Pastore-Sant'Agnese-San Damaso
+Strada TRE CASE	44.588632300	10.975867100	Buon Pastore-Sant'Agnese-San Damaso
+Strada TRE OLMI	44.665010400	10.865572700	San Faustino-Madonnina-Quattroville
+Via TRE RE	44.643792200	10.923334400	Centro Storico
+Via TREVISO	44.632152800	10.922743400	Buon Pastore-Sant'Agnese-San Damaso
+Via Gaspare TRIBRACO	44.652242900	10.931488100	Centro Storico
+Via Rubes TRIVA	44.658378400	10.933425100	Crocetta-San Lazzaro-Modena Est
+Via TRIVELLARI	44.645156000	10.924227300	Centro Storico
+Via Ferruccio TROMBI	44.645815000	10.919858200	Centro Storico
+Via Dei TULIPANI	44.602163800	10.971322100	Buon Pastore-Sant'Agnese-San Damaso
+Via Filippo TURATI	44.655541000	10.946480400	Crocetta-San Lazzaro-Modena Est
+Stradello TURCHETTO	44.596095100	10.873862400	San Faustino-Madonnina-Quattroville
+Via TURCHIA	44.664736900	10.940947900	Crocetta-San Lazzaro-Modena Est
+Via UCCELLIERA	44.657162600	10.894524200	San Faustino-Madonnina-Quattroville
+Via UDINE	44.630654500	10.924171400	Buon Pastore-Sant'Agnese-San Damaso
+Via Giacomo ULIVI	44.652189500	10.903736200	San Faustino-Madonnina-Quattroville
+Via Giuseppe UNGARETTI	44.658052200	10.912530000	Centro Storico
+Via UNGHERIA	44.669007600	10.936759300	Crocetta-San Lazzaro-Modena Est
+Via URUGUAY	44.659783200	10.962124200	Crocetta-San Lazzaro-Modena Est
+Via Angelo USIGLIO	44.644091200	10.933651000	Centro Storico
+Via Antoniotto USODIMARE	44.657401900	10.892637500	San Faustino-Madonnina-Quattroville
+Via Dell'UVA	44.684371300	10.894577100	San Faustino-Madonnina-Quattroville
+Via Luigi VACCARI	44.641089700	10.915374600	San Faustino-Madonnina-Quattroville
+Via VALDAGNO	44.582456800	10.937671800	Buon Pastore-Sant'Agnese-San Damaso
+Via Luigi VALDRIGHI	44.639458100	10.935167400	Buon Pastore-Sant'Agnese-San Damaso
+Via Augusto VALLI	44.630670600	10.913344500	Buon Pastore-Sant'Agnese-San Damaso
+Via Antonio VALLISNIERI	44.638920200	10.896235300	San Faustino-Madonnina-Quattroville
+Via Francesco VANDELLI	44.651269100	10.937684900	Centro Storico
+Via VARAZZE	44.633989400	10.935642300	Buon Pastore-Sant'Agnese-San Damaso
+Via VARESE	44.625555800	10.925542300	Buon Pastore-Sant'Agnese-San Damaso
+Via Costanzo VAROLI	44.629979000	10.898004400	San Faustino-Madonnina-Quattroville
+Via Giorgio VASARI	44.635954300	10.907415200	San Faustino-Madonnina-Quattroville
+Via Orazio VECCHI	44.643272700	10.916411900	Centro Storico
+Via Francesco VECCHIONE	44.625926700	10.973491700	Buon Pastore-Sant'Agnese-San Damaso
+Via Lodovico VEDRIANI	44.636753700	10.927597500	Buon Pastore-Sant'Agnese-San Damaso
+Via Francesco VELLANI	44.658364300	10.903374500	San Faustino-Madonnina-Quattroville
+Via Mario VELLANI MARCHI	44.639873300	10.904133400	San Faustino-Madonnina-Quattroville
+Vicolo VENEZIA	44.646336800	10.929535800	Centro Storico
+Via VENEZUELA	44.662487700	10.962884100	Crocetta-San Lazzaro-Modena Est
+Piazza VENTI SETTEMBRE	44.645070800	10.926516200	Centro Storico
+Via VENTIMIGLIA	44.627395500	10.938173700	Buon Pastore-Sant'Agnese-San Damaso
+Via Mario VENTURELLI	44.639252100	10.898503600	San Faustino-Madonnina-Quattroville
+Via Adolfo VENTURI	44.639311700	10.916060600	Buon Pastore-Sant'Agnese-San Damaso
+Via Bartolomeo VERATTI	44.633045300	10.932125900	Buon Pastore-Sant'Agnese-San Damaso
+Via VERCELLI	44.628634000	10.939588200	Buon Pastore-Sant'Agnese-San Damaso
+Via Giuseppe VERDI	44.328849600	10.831839200	La Sbrugna
+Via Giulio VERNE	44.662647600	10.890789600	San Faustino-Madonnina-Quattroville
+Via VERONA	44.630803900	10.921992000	Buon Pastore-Sant'Agnese-San Damaso
+Via Del VERONESE	44.639167100	10.907572800	San Faustino-Madonnina-Quattroville
+Via Amerigo VESPUCCI	44.656292000	10.900177400	San Faustino-Madonnina-Quattroville
+Via VIAREGGIO	44.620576700	10.931270700	Buon Pastore-Sant'Agnese-San Damaso
+Strada VIAZZA COGNENTO	44.631039100	10.852133100	San Faustino-Madonnina-Quattroville
+Strada VIAZZA VILLANOVA	44.686040000	10.917254600	San Faustino-Madonnina-Quattroville
+Via VICENZA	44.631736600	10.921224600	Buon Pastore-Sant'Agnese-San Damaso
+Via VIGEVANO	44.623579000	10.930428400	Buon Pastore-Sant'Agnese-San Damaso
+Via VIGNA VERDE	44.687409850	10.893860853	San Faustino-Madonnina-Quattroville
+Strada VIGNOLESE	44.634245900	10.936357700	Buon Pastore-Sant'Agnese-San Damaso
+Via  VILLA DORO	44.657723500	10.944129600	Crocetta-San Lazzaro-Modena Est
+Via VILLAFRANCA	44.627335700	10.925669800	Buon Pastore-Sant'Agnese-San Damaso
+Strada VILLANOVA	44.675248000	10.901161800	San Faustino-Madonnina-Quattroville
+Strada VILLAVARA	44.694326300	11.009383300	Crocetta-San Lazzaro-Modena Est
+Via Lodovico Antonio VINCENZI	44.647837800	10.917474400	Centro Storico
+Via Delle VIOLE	44.602599600	10.974316400	Buon Pastore-Sant'Agnese-San Damaso
+Viale VIRGILIO	44.655516550	10.856805984	San Faustino-Madonnina-Quattroville
+Via Dei VITALI	44.629991000	10.965710600	Crocetta-San Lazzaro-Modena Est
+Via VITERBO	44.623581800	10.941283200	Buon Pastore-Sant'Agnese-San Damaso
+Via Marco Pollione VITRUVIO	44.633813600	10.918435100	Buon Pastore-Sant'Agnese-San Damaso
+Viale VITTORIO VENETO	44.645892800	10.919981500	Centro Storico
+Via Antonio VIVALDI	44.638177100	10.949627400	Crocetta-San Lazzaro-Modena Est
+Via Piero VIVARELLI	44.627597600	10.947960400	Buon Pastore-Sant'Agnese-San Damaso
+Via VOGHERA	44.623081400	10.929997900	Buon Pastore-Sant'Agnese-San Damaso
+Via Alessandro VOLTA	44.644888400	10.913132200	San Faustino-Madonnina-Quattroville
+Via Del VOLTONE	44.649713500	10.924085100	Centro Storico
+Via Richard WAGNER	44.632522100	10.973841300	Crocetta-San Lazzaro-Modena Est
+Via WILIGELMO	44.635977300	10.911749900	San Faustino-Madonnina-Quattroville
+Via Enrico ZACCARIA	44.684256900	10.893838200	San Faustino-Madonnina-Quattroville
+Via Ermete ZACCONI	44.652335000	10.916960900	Centro Storico
+Via Caterina ZAMBELLI	44.628809700	10.960167400	Buon Pastore-Sant'Agnese-San Damaso
+Via Ludovico Lazzaro ZAMENHOF	44.626217200	10.943105300	Buon Pastore-Sant'Agnese-San Damaso
+Via Eugenio ZAMPIGHI	44.629144900	10.913599900	Buon Pastore-Sant'Agnese-San Damaso
+Via Riccardo ZANDONAI	44.638381100	10.952144700	Crocetta-San Lazzaro-Modena Est
+Via Luigi ZANFI	44.657480300	10.882893800	San Faustino-Madonnina-Quattroville
+Via Ghigo ZANFROGNINI	44.600139500	10.971770800	Buon Pastore-Sant'Agnese-San Damaso
+Via Gian Girolamo ZANICHELLI	44.642941900	10.911521500	San Faustino-Madonnina-Quattroville
+Via Licurgo ZANNINI	44.652034200	10.915178600	Centro Storico
+Via Enea ZANOLI	44.633432000	10.947757900	Buon Pastore-Sant'Agnese-San Damaso
+Via Barbato ZANONI	44.631273900	10.948871000	Buon Pastore-Sant'Agnese-San Damaso
+Strada ZAPPELLACCIO	44.703593600	10.920259600	San Faustino-Madonnina-Quattroville
+Via Giuseppe ZARLATI	44.651036700	10.896151300	San Faustino-Madonnina-Quattroville
+Via Giuseppe ZATTERA	44.637487500	10.908778100	San Faustino-Madonnina-Quattroville
+Via Luigi ZINI	44.661181200	10.886939600	San Faustino-Madonnina-Quattroville
+Via ZOAGLI	44.629421400	10.938130300	Buon Pastore-Sant'Agnese-San Damaso
+Via Jacopo ZOBOLI	44.629418500	10.903356500	Buon Pastore-Sant'Agnese-San Damaso
+Via Dello ZODIACO	44.628301600	10.894935000	San Faustino-Madonnina-Quattroville
+Via Canzio ZOLDI	44.664157500	10.945862900	Crocetta-San Lazzaro-Modena Est
+Via Dello ZONO	44.645103100	10.926542000	Centro Storico
+Via Carlo ZUCCHI	44.652420300	10.912744800	Centro Storico
+Via Guglielmo ZUCCONI	44.638752600	10.903802400	San Faustino-Madonnina-Quattroville
+Via Umberto ZURLINI	44.631992300	10.907564300	Buon Pastore-Sant'Agnese-San Damaso

@@ -1,0 +1,23 @@
+version 2
+run General-0-20180830-12:49:13-7641
+attr configname General
+attr datetime 20180830-12:49:13
+attr experiment General
+attr inifile simulations/PercSource_20.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Map
+attr processid 7641
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param Map.Modena.**.sendInterval exponential(1)
+param Map.Modena.**.serviceTime exponential(0.002)
+param Map.Modena.subsampling_database "\"simulations/databases/PercSource_20.db\""
+
+scalar "Map.Modena.Viale del MERCATO" "Average delay" 0.072342032163435
+scalar "Map.Modena.Viale del MERCATO" "Number of packets" 970693
+

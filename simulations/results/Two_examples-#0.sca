@@ -1,0 +1,27 @@
+version 2
+run Two_examples-0-20180727-18:01:49-18162
+attr configname Two_examples
+attr datetime 20180727-18:01:49
+attr experiment Two_examples
+attr inifile simulations/omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network MM1_network
+attr processid 18162
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+param MM1_network.nApps 2
+param MM1_network.MM1_net[0].source.sendInterval exponential(0.1)
+param MM1_network.MM1_net[0].queue.serviceTime exponential(1)
+param MM1_network.MM1_net[1].source.sendInterval exponential(0.1)
+param MM1_network.MM1_net[1].queue.serviceTime exponential(10)
+
+scalar MM1_network.MM1_net[0].sink "Average delay" 1625.1579879787
+scalar MM1_network.MM1_net[0].sink "Number of packets" 3520
+scalar MM1_network.MM1_net[1].sink "Average delay" 1808.9128183323
+scalar MM1_network.MM1_net[1].sink "Number of packets" 392
+
